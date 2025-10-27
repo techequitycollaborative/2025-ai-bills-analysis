@@ -26,7 +26,7 @@ Some bills had more than one assigned topic, so the data here totals to more tha
 
 ![Bills by topic](plots/bills_by_topic.png)
 
-### Bills success by author
+### Bill success by author
 We also look at bill success by primary author (we do not analyze co-authors). There were 15 authors who authored at least 1 signed AI bill.
 
 The authors with the highest number of AI bills signed were Bauer-Kahan (4), Arreguin (3), and Wicks (3).
