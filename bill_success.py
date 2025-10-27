@@ -48,5 +48,30 @@ def assign_success(df):
     
     return df
 
+# Apply bill success statuses
 bills = assign_success(bills)
-print(bills[['status', 'success']].head(10))
+print(bills[['status', 'success']].head(15))
+
+# Get breakdown of each success category
+signed_bills = bills[bills['success'] == 'Signed']
+vetoed_bills = bills[bills['success'] == 'Vetoed']
+failed_bills = bills[bills['success'] == 'Failed']
+
+num_signed = len(signed_bills)
+num_vetoed = len(vetoed_bills)
+num_failed = len(failed_bills)
+perc_signed = (num_signed / len(bills)) * 100
+perc_vetoed = (num_vetoed / len(bills)) * 100 
+perc_failed = (num_failed / len(bills)) * 100
+
+print(f'Signed Bills: {num_signed}, {perc_signed:.2f}%')
+print(f'Vetoed Bills: {num_vetoed}, {perc_vetoed:.2f}%')
+print(f'Failed Bills: {num_failed}, {perc_failed:.2f}%')
+print(f'Total AI Bills: {len(bills)}')
+
+# Get bill success by bill topic
+success_by_topic = bills.groupby('assigned_topics')['success'].value_counts()
+print(success_by_topic)
+
+success_by_topic_2 = bills.explode('assigned_topics').groupby('assigned_topics')['success'].value_counts
+print(success_by_topic_2)
