@@ -15,7 +15,7 @@ We then assign each bill a 'success status' based on their final bill status, as
 - Failed: A bill never made it to the Governor's desk
 
 ## Bill success overview
-Of the 71 bills reviewed, 18 were signed, 7 were vetoed, and 46 failed to reach the Governor's desk.
+Of the 71 bills reviewed, 21 were signed, 7 were vetoed, and 43 failed to reach the Governor's desk.
 
 ![Bill success overview](plots/bill_success_overview.png)
 
