@@ -38,7 +38,7 @@ def assign_success(df):
     # Define conditions and corresponding values
     conditions = [
         df['status'].str.contains('veto', case=False, na=False),
-        (df['status'].str.contains('approved by governor', case=False, na=False) |
+        (df['status'].str.contains('approved by the governor', case=False, na=False) |
         df['status'].str.contains('chaptered by secretary of state', case=False, na=False))
         ] # Failed = all other statuses
    
@@ -114,5 +114,6 @@ df.plot(kind='bar', stacked=True, colormap='Set3', figsize=(12,8))
 plt.xlabel('Bill Topic')
 plt.legend(title='Bill Status')
 plt.title('Bill Success by Topic')
+plt.tight_layout()
 plt.savefig('./plots/bills_by_topic.png')
 plt.show()
