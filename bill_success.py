@@ -8,6 +8,8 @@ Date: Oct 23, 2025
 from db.get_bills import get_bills
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Load AI bills data
 bills = get_bills()
@@ -50,7 +52,7 @@ def assign_success(df):
 
 # Apply bill success statuses
 bills = assign_success(bills)
-print(bills[['status', 'success']].head(15))
+print(bills[['assigned_topics','status', 'success']].head(15))
 
 # Get breakdown of each success category
 signed_bills = bills[bills['success'] == 'Signed']
@@ -64,14 +66,53 @@ perc_signed = (num_signed / len(bills)) * 100
 perc_vetoed = (num_vetoed / len(bills)) * 100 
 perc_failed = (num_failed / len(bills)) * 100
 
-print(f'Signed Bills: {num_signed}, {perc_signed:.2f}%')
-print(f'Vetoed Bills: {num_vetoed}, {perc_vetoed:.2f}%')
-print(f'Failed Bills: {num_failed}, {perc_failed:.2f}%')
-print(f'Total AI Bills: {len(bills)}')
+success_summary = pd.DataFrame({
+    'Status': ['Signed', 'Vetoed', 'Failed', 'Total'],
+    'Count': [num_signed, num_vetoed, num_failed, len(bills)],
+    'Percentage': [perc_signed, perc_vetoed, perc_failed, 100.0]
+})
+
+print(success_summary)
 
 # Get bill success by bill topic
 success_by_topic = bills.groupby('assigned_topics')['success'].value_counts()
 print(success_by_topic)
 
-success_by_topic_2 = bills.explode('assigned_topics').groupby('assigned_topics')['success'].value_counts
-print(success_by_topic_2)
+# Some bills have multiple topics, so we need to separate them out
+success_by_topic_expanded = bills.assign(
+    assigned_topics=bills['assigned_topics'].str.split('; ')
+).explode('assigned_topics')
+print(success_by_topic_expanded[['assigned_topics','success']].head(10))
+
+# Regroup by topic, now that we split them out
+success_by_topic_summary = success_by_topic_expanded.groupby(['assigned_topics', 'success']).size().unstack(fill_value=0)
+success_by_topic_summary['Total'] = success_by_topic_summary.sum(axis=1) # Add a total column
+success_by_topic_summary = success_by_topic_summary.sort_values('Total', ascending=False) # Sort
+print(success_by_topic_summary)
+
+# Check overall total -- should be more than 71, which is the total number of bills
+print(success_by_topic_summary['Total'].sum())
+
+# Save data as csv
+success_by_topic_expanded.to_csv('./data/bill_data_with_success_status.csv')
+success_summary.to_csv('./data/bill_success_summary.csv')
+success_by_topic_summary.to_csv('./data/bill_success_by_topic.csv')
+
+# Plots
+
+# Bill success overall
+plt.figure(figsize=(8,6))
+plt.pie(success_summary['Count'].iloc[:-1], labels=success_summary['Status'].iloc[:-1], autopct='%1.1f%%', colors=sns.color_palette('Set2', 3))
+plt.title('AI Bills Success Overview')
+plt.savefig('./plots/bill_success_overview.png')
+plt.show()
+
+# Bill success by topic
+plt.figure(figsize=(12,8))
+df = success_by_topic_summary.drop(columns=['Total'])
+df.plot(kind='bar', stacked=True, colormap='Set3', figsize=(12,8))
+plt.xlabel('Bill Topic')
+plt.legend(title='Bill Status')
+plt.title('Bill Success by Topic')
+plt.savefig('./plots/bills_by_topic.png')
+plt.show()
