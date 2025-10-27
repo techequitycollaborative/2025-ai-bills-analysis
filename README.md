@@ -15,11 +15,15 @@ We then assign each bill a 'success status' based on their final bill status, as
 - Failed: A bill never made it to the Governor's desk
 
 ## Bill success overview
-Of the 71 bills reviewed, 
+Of the 71 bills reviewed, 21 were signed, 7 were vetoed, and 43 failed to reach the Governor's desk.
 
 ![Bill success overview](plots/bill_success_overview.png)
 
 ## Bill success by topic
-Some bills had more than one topic assigned to them, so the data here totals to move than 71.
+Some bills had more than one assigned topic, so the data here totals to move than 71.
 
 ![Bill success overview](plots/bills_by_topic.png)
+
+## Failed bills status
+Of the bills that failed to reach the Governor's desk, how far in the process did they go? At what stage were bills stalling?
+
