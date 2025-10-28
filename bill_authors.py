@@ -5,7 +5,6 @@ bill_authors.py
 Date: Oct 27, 2025
 """
 
-from db.get_bills import get_bills
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

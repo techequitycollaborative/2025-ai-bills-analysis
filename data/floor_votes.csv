@@ -1,0 +1,581 @@
+bill_number,chamber,success,motion_text,vote_location,vote_date,vote_result,yes_count,no_count,other_count,total_votes,vote_threshold_num,vote_margin
+AB 1018,Assembly,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,9,3,3,15.0,41.0,-32.0
+AB 1018,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,8,3,1,12.0,41.0,-33.0
+AB 1018,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 1018,Assembly,Failed,AB 1018 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T03:10:50+00:00,pass,50,16,13,79.0,41.0,9.0
+AB 1018,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+AB 1018,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 1018,Assembly,Failed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 1043,Assembly,Signed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,13,0,2,15.0,41.0,-28.0
+AB 1043,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+AB 1043,Assembly,Signed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,0,4,15.0,41.0,-30.0
+AB 1043,Assembly,Signed,AB 1043 Wicks Assembly Third Reading,Assembly,2025-06-03T02:20:16+00:00,pass,76,0,3,79.0,41.0,35.0
+AB 1043,Assembly,Signed,AB 1043 WICKS Concurrence in Senate Amendments,Assembly,2025-09-13T09:32:08+00:00,pass,77,0,3,80.0,41.0,36.0
+AB 1043,Assembly,Signed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,12,0,1,13.0,21.0,-9.0
+AB 1043,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 1043,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 1043,Assembly,Signed,3rd Reading AB1043 Wicks et al. By Umberg,Senate,2025-09-12T07:00:00+00:00,pass,38,0,2,40.0,21.0,17.0
+AB 1053,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-30T07:00:00+00:00,pass,7,1,1,9.0,41.0,-34.0
+AB 1064,Assembly,Vetoed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 1064,Assembly,Vetoed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+AB 1064,Assembly,Vetoed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+AB 1064,Assembly,Vetoed,AB 1064 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T03:22:39+00:00,pass,59,12,8,79.0,41.0,18.0
+AB 1064,Assembly,Vetoed,AB 1064 Bauer-Kahan Concurrence in Senate Amendments,Assembly,2025-09-12T03:48:38+00:00,pass,60,8,12,80.0,41.0,19.0
+AB 1064,Assembly,Vetoed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,1,1,13.0,21.0,-10.0
+AB 1064,Assembly,Vetoed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 1064,Assembly,Vetoed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 1064,Assembly,Vetoed,3rd Reading AB1064 Bauer-Kahan et al. By Ashby,Senate,2025-09-10T07:00:00+00:00,pass,31,6,3,40.0,21.0,10.0
+AB 1095,Assembly,Failed,Do pass and be re-referred to the Committee on [Natural Resources] with recommendation: To Consent Calendar,Assembly,2025-04-23T07:00:00+00:00,pass,18,0,0,18.0,41.0,-23.0
+AB 1095,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-04-28T07:00:00+00:00,pass,14,0,0,14.0,41.0,-27.0
+AB 1137,Assembly,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,13,0,2,15.0,41.0,-28.0
+AB 1137,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,11,0,1,12.0,41.0,-30.0
+AB 1159,Assembly,Failed,,,,,,,,,,
+AB 1221,Assembly,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-04-02T07:00:00+00:00,pass,5,0,2,7.0,41.0,-36.0
+AB 1221,Assembly,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-04-02T07:00:00+00:00,pass,5,0,2,7.0,41.0,-36.0
+AB 1221,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-05-01T07:00:00+00:00,pass,10,1,4,15.0,41.0,-31.0
+AB 1221,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-05-01T07:00:00+00:00,pass,10,1,4,15.0,41.0,-31.0
+AB 1242,Assembly,Failed,Do pass and be re-referred to the Committee on [Human Services],Assembly,2025-04-22T07:00:00+00:00,pass,16,0,0,16.0,41.0,-25.0
+AB 1242,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,6,0,1,7.0,41.0,-35.0
+AB 1242,Assembly,Failed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 1242,Assembly,Failed,AB 1242 Nguyen Assembly Third Reading,Assembly,2025-06-04T00:49:23+00:00,pass,72,3,4,79.0,41.0,31.0
+AB 1242,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Governmental Organization]",Senate,2025-07-02T07:00:00+00:00,pass,10,0,1,11.0,21.0,-11.0
+AB 1242,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-08T07:00:00+00:00,pass,11,0,4,15.0,21.0,-10.0
+AB 1242,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 1331,Assembly,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-04-02T07:00:00+00:00,pass,5,0,2,7.0,41.0,-36.0
+AB 1331,Assembly,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-04-02T07:00:00+00:00,pass,5,0,2,7.0,41.0,-36.0
+AB 1331,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 1331,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 1331,Assembly,Failed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+AB 1331,Assembly,Failed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+AB 1331,Assembly,Failed,AB 1331 Elhawary Assembly Third Reading,Assembly,2025-06-06T00:00:56+00:00,pass,55,15,9,79.0,41.0,14.0
+AB 1331,Assembly,Failed,AB 1331 Elhawary Assembly Third Reading,Assembly,2025-06-06T00:00:56+00:00,pass,55,15,9,79.0,41.0,14.0
+AB 1331,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-06-25T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+AB 1331,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-06-25T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+AB 1331,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,9,2,2,13.0,21.0,-12.0
+AB 1331,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,9,2,2,13.0,21.0,-12.0
+AB 1331,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 1331,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 1331,Assembly,Failed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 1331,Assembly,Failed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 1337,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-01T07:00:00+00:00,pass,12,0,3,15.0,41.0,-29.0
+AB 1337,Assembly,Failed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 1337,Assembly,Failed,AB 1337 Ward Assembly Third Reading,Assembly,2025-06-03T02:37:43+00:00,pass,64,0,15,79.0,41.0,23.0
+AB 1337,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,fail,6,2,5,13.0,21.0,-15.0
+AB 1337,Assembly,Failed,[First] hearing set for [07-16-2025]: Failed passage in Committee. Reconsideration granted,Senate,2025-07-15T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 1355,Assembly,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,9,3,3,15.0,41.0,-32.0
+AB 1355,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,7,3,2,12.0,41.0,-34.0
+AB 1405,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-01T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 1405,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,11,0,4,15.0,41.0,-30.0
+AB 1405,Assembly,Failed,AB 1405 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T00:22:04+00:00,pass,62,4,13,79.0,41.0,21.0
+AB 1405,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Governmental Organization]",Senate,2025-07-01T07:00:00+00:00,pass,11,1,1,13.0,21.0,-10.0
+AB 1405,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-08T07:00:00+00:00,pass,11,2,2,15.0,21.0,-10.0
+AB 1405,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 2,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-04-01T07:00:00+00:00,pass,9,0,6,15.0,41.0,-32.0
+AB 2,Assembly,Failed,Do pass.,Assembly,2025-04-08T07:00:00+00:00,pass,9,0,3,12.0,41.0,-32.0
+AB 2,Assembly,Failed,AB 2 Lowenthal Assembly Third Reading,Assembly,2025-05-12T21:31:25+00:00,pass,66,0,13,79.0,41.0,25.0
+AB 222,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-04-02T07:00:00+00:00,pass,13,5,0,18.0,41.0,-28.0
+AB 222,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-05-01T07:00:00+00:00,pass,10,1,4,15.0,41.0,-31.0
+AB 222,Assembly,Failed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+AB 222,Assembly,Failed,AB 222 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T00:38:11+00:00,pass,57,18,4,79.0,41.0,16.0
+AB 222,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Judiciary]",Senate,2025-07-01T07:00:00+00:00,pass,13,3,1,17.0,21.0,-8.0
+AB 222,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+AB 222,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 279,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-03-12T07:00:00+00:00,pass,8,0,1,9.0,41.0,-33.0
+AB 279,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 279,Assembly,Failed,AB 279 Patel Assembly Third Reading,Assembly,2025-06-03T18:01:15+00:00,pass,78,1,0,79.0,41.0,37.0
+AB 279,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-07-16T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 279,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 302,Assembly,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,12,2,2,16.0,41.0,-29.0
+AB 302,Assembly,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,12,2,2,16.0,41.0,-29.0
+AB 302,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+AB 302,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+AB 302,Assembly,Failed,Do pass.,Assembly,2025-05-14T07:00:00+00:00,pass,11,4,0,15.0,41.0,-30.0
+AB 302,Assembly,Failed,Do pass.,Assembly,2025-05-14T07:00:00+00:00,pass,11,4,0,15.0,41.0,-30.0
+AB 302,Assembly,Failed,AB 302 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-23T16:50:27+00:00,pass,56,11,12,79.0,41.0,15.0
+AB 302,Assembly,Failed,AB 302 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-23T16:50:27+00:00,pass,56,11,12,79.0,41.0,15.0
+AB 302,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Public Safety]",Senate,2025-07-15T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+AB 302,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Public Safety]",Senate,2025-07-15T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+AB 302,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 302,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 316,Assembly,Signed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-03-25T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+AB 316,Assembly,Signed,Do pass.,Assembly,2025-05-06T07:00:00+00:00,pass,11,2,2,15.0,41.0,-30.0
+AB 316,Assembly,Signed,AB 316 Krell Assembly Third Reading,Assembly,2025-05-19T22:28:54+00:00,pass,70,1,8,79.0,41.0,29.0
+AB 316,Assembly,Signed,AB 316 Krell Concurrence in Senate Amendments,Assembly,2025-09-09T22:01:56+00:00,pass,78,0,2,80.0,41.0,37.0
+AB 316,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-06-24T07:00:00+00:00,pass,12,0,1,13.0,21.0,-9.0
+AB 316,Assembly,Signed,Placed on suspense file,Senate,2025-07-07T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+AB 316,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 316,Assembly,Signed,3rd Reading AB316 Krell By Umberg,Senate,2025-09-08T07:00:00+00:00,pass,38,0,2,40.0,21.0,17.0
+AB 322,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-03-12T07:00:00+00:00,pass,8,0,1,9.0,41.0,-33.0
+AB 322,Assembly,Failed,Do pass.,Assembly,2025-04-09T07:00:00+00:00,pass,10,0,5,15.0,41.0,-31.0
+AB 322,Assembly,Failed,AB 322 Ward Assembly Third Reading,Assembly,2025-04-21T21:32:15+00:00,pass,62,0,17,79.0,41.0,21.0
+AB 322,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-06-11T07:00:00+00:00,pass,4,0,3,7.0,21.0,-17.0
+AB 322,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+AB 322,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 325,Assembly,Signed,Do pass as amended and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-04-08T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+AB 325,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-05-01T07:00:00+00:00,pass,10,2,3,15.0,41.0,-31.0
+AB 325,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+AB 325,Assembly,Signed,AB 325 Aguiar-Curry Assembly Third Reading,Assembly,2025-06-02T21:05:51+00:00,pass,54,17,8,79.0,41.0,13.0
+AB 325,Assembly,Signed,AB 325 Aguiar-Curry Concurrence in Senate Amendments,Assembly,2025-09-12T22:22:14+00:00,pass,54,18,8,80.0,41.0,13.0
+AB 325,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-01T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+AB 325,Assembly,Signed,Placed on suspense file,Senate,2025-07-14T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 325,Assembly,Signed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 325,Assembly,Signed,3rd Reading AB325 Aguiar-Curry et al. By Umberg,Senate,2025-09-11T07:00:00+00:00,pass,29,9,2,40.0,21.0,8.0
+AB 33,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-21T07:00:00+00:00,pass,12,2,2,16.0,41.0,-29.0
+AB 33,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 33,Assembly,Failed,AB 33 Aguiar-Curry Assembly Third Reading,Assembly,2025-05-29T18:07:11+00:00,pass,57,7,15,79.0,41.0,16.0
+AB 33,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-06-24T07:00:00+00:00,pass,10,3,2,15.0,21.0,-11.0
+AB 33,Assembly,Failed,Placed on suspense file,Senate,2025-07-14T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 33,Assembly,Failed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 392,Assembly,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-01T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 392,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-22T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+AB 392,Assembly,Failed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 392,Assembly,Failed,AB 392 Dixon Assembly Third Reading,Assembly,2025-06-05T23:27:50+00:00,pass,78,0,1,79.0,41.0,37.0
+AB 392,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Public Safety]",Senate,2025-07-08T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 392,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 410,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-01T07:00:00+00:00,pass,12,1,2,15.0,41.0,-29.0
+AB 410,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-01T07:00:00+00:00,pass,12,1,2,15.0,41.0,-29.0
+AB 410,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 410,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 410,Assembly,Failed,AB 410 Wilson Assembly Third Reading,Assembly,2025-06-03T18:11:04+00:00,pass,77,2,0,79.0,41.0,36.0
+AB 410,Assembly,Failed,AB 410 Wilson Assembly Third Reading,Assembly,2025-06-03T18:11:04+00:00,pass,77,2,0,79.0,41.0,36.0
+AB 410,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 410,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 410,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 410,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 412,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-03-18T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 412,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-03-18T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 412,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-03-18T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 412,Assembly,Failed,Do pass as amended.,Assembly,2025-05-06T07:00:00+00:00,pass,9,1,2,12.0,41.0,-32.0
+AB 412,Assembly,Failed,Do pass as amended.,Assembly,2025-05-06T07:00:00+00:00,pass,9,1,2,12.0,41.0,-32.0
+AB 412,Assembly,Failed,Do pass as amended.,Assembly,2025-05-06T07:00:00+00:00,pass,9,1,2,12.0,41.0,-32.0
+AB 412,Assembly,Failed,AB 412 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-12T22:24:13+00:00,pass,45,16,18,79.0,41.0,4.0
+AB 412,Assembly,Failed,AB 412 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-12T22:24:13+00:00,pass,45,16,18,79.0,41.0,4.0
+AB 412,Assembly,Failed,AB 412 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-12T22:24:13+00:00,pass,45,16,18,79.0,41.0,4.0
+AB 446,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-03-18T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 446,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-03-18T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+AB 446,Assembly,Failed,Do pass.,Assembly,2025-05-06T07:00:00+00:00,pass,8,3,1,12.0,41.0,-33.0
+AB 446,Assembly,Failed,Do pass.,Assembly,2025-05-06T07:00:00+00:00,pass,8,3,1,12.0,41.0,-33.0
+AB 446,Assembly,Failed,AB 446 Ward Assembly Third Reading,Assembly,2025-05-12T22:22:43+00:00,pass,47,20,12,79.0,41.0,6.0
+AB 446,Assembly,Failed,AB 446 Ward Assembly Third Reading,Assembly,2025-05-12T22:22:43+00:00,pass,47,20,12,79.0,41.0,6.0
+AB 446,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,10,2,1,13.0,21.0,-11.0
+AB 446,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,10,2,1,13.0,21.0,-11.0
+AB 446,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 446,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 446,Assembly,Failed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,4,2,1,7.0,21.0,-17.0
+AB 446,Assembly,Failed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,4,2,1,7.0,21.0,-17.0
+AB 45,Assembly,Signed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,10,2,3,15.0,41.0,-31.0
+AB 45,Assembly,Signed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,10,2,3,15.0,41.0,-31.0
+AB 45,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,9,2,1,12.0,41.0,-32.0
+AB 45,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,9,2,1,12.0,41.0,-32.0
+AB 45,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,11,2,2,15.0,41.0,-30.0
+AB 45,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,11,2,2,15.0,41.0,-30.0
+AB 45,Assembly,Signed,AB 45 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-04T01:18:02+00:00,pass,63,11,5,79.0,41.0,22.0
+AB 45,Assembly,Signed,AB 45 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-04T01:18:02+00:00,pass,63,11,5,79.0,41.0,22.0
+AB 45,Assembly,Signed,AB 45 Bauer-Kahan Concurrence in Senate Amendments,Assembly,2025-09-13T09:05:07+00:00,pass,61,12,7,80.0,41.0,20.0
+AB 45,Assembly,Signed,AB 45 Bauer-Kahan Concurrence in Senate Amendments,Assembly,2025-09-13T09:05:07+00:00,pass,61,12,7,80.0,41.0,20.0
+AB 45,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,1,1,13.0,21.0,-10.0
+AB 45,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,1,1,13.0,21.0,-10.0
+AB 45,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 45,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 45,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 45,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 45,Assembly,Signed,3rd Reading AB45 Bauer-Kahan et al. By Menjivar,Senate,2025-09-12T07:00:00+00:00,pass,29,9,2,40.0,21.0,8.0
+AB 45,Assembly,Signed,3rd Reading AB45 Bauer-Kahan et al. By Menjivar,Senate,2025-09-12T07:00:00+00:00,pass,29,9,2,40.0,21.0,8.0
+AB 489,Assembly,Signed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-04-01T07:00:00+00:00,pass,17,0,1,18.0,41.0,-24.0
+AB 489,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-04-22T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 489,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 489,Assembly,Signed,AB 489 Bonta Assembly Third Reading,Assembly,2025-06-02T21:40:43+00:00,pass,79,0,0,79.0,41.0,38.0
+AB 489,Assembly,Signed,AB 489 Bonta Concurrence in Senate Amendments,Assembly,2025-09-08T23:41:52+00:00,pass,79,0,1,80.0,41.0,38.0
+AB 489,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-06-23T07:00:00+00:00,pass,10,0,1,11.0,21.0,-11.0
+AB 489,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 489,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 489,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 489,Assembly,Signed,Special Consent AB489 Bonta et al. By Weber Pierson,Senate,2025-09-04T07:00:00+00:00,pass,39,0,1,40.0,21.0,18.0
+AB 502,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-03-26T07:00:00+00:00,pass,7,0,0,7.0,41.0,-34.0
+AB 502,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-03-26T07:00:00+00:00,pass,7,0,0,7.0,41.0,-34.0
+AB 502,Assembly,Failed,Do pass. To Consent Calendar.,Assembly,2025-04-09T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 502,Assembly,Failed,Do pass. To Consent Calendar.,Assembly,2025-04-09T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 502,Assembly,Failed,AB 502 Pellerin Consent Calendar Second Day,Assembly,2025-04-24T17:11:15+00:00,pass,75,0,4,79.0,41.0,34.0
+AB 502,Assembly,Failed,AB 502 Pellerin Consent Calendar Second Day,Assembly,2025-04-24T17:11:15+00:00,pass,75,0,4,79.0,41.0,34.0
+AB 502,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Rules]",Senate,2025-07-01T07:00:00+00:00,pass,4,0,1,5.0,21.0,-17.0
+AB 502,Assembly,Failed,"Do pass, but first be re-referred to the Committee on [Rules]",Senate,2025-07-01T07:00:00+00:00,pass,4,0,1,5.0,21.0,-17.0
+AB 502,Assembly,Failed,Do pass,Senate,2025-07-15T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+AB 502,Assembly,Failed,Do pass,Senate,2025-07-15T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+AB 512,Assembly,Vetoed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-22T07:00:00+00:00,pass,13,0,3,16.0,41.0,-28.0
+AB 512,Assembly,Vetoed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,12,0,3,15.0,41.0,-29.0
+AB 512,Assembly,Vetoed,AB 512 Harabedian Assembly Third Reading,Assembly,2025-06-02T21:43:39+00:00,pass,68,1,10,79.0,41.0,27.0
+AB 512,Assembly,Vetoed,AB 512 Harabedian Concurrence in Senate Amendments,Assembly,2025-09-11T02:29:47+00:00,pass,67,2,11,80.0,41.0,26.0
+AB 512,Assembly,Vetoed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-09T07:00:00+00:00,pass,9,0,2,11.0,21.0,-12.0
+AB 512,Assembly,Vetoed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 512,Assembly,Vetoed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+AB 512,Assembly,Vetoed,3rd Reading AB512 Harabedian et al. By Becker,Senate,2025-09-09T07:00:00+00:00,pass,30,0,10,40.0,21.0,9.0
+AB 56,Assembly,Signed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 56,Assembly,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,10,1,1,12.0,41.0,-31.0
+AB 56,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 56,Assembly,Signed,AB 56 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-29T18:32:11+00:00,pass,50,0,29,79.0,41.0,9.0
+AB 56,Assembly,Signed,AB 56 Bauer-Kahan Concurrence in Senate Amendments,Assembly,2025-09-12T22:13:00+00:00,pass,59,7,14,80.0,41.0,18.0
+AB 56,Assembly,Signed,"Do pass as amended, but first amend, and re-refer to the Committee on [Health]",Senate,2025-07-01T07:00:00+00:00,pass,12,0,1,13.0,21.0,-9.0
+AB 56,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-16T07:00:00+00:00,pass,10,0,1,11.0,21.0,-11.0
+AB 56,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 56,Assembly,Signed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 56,Assembly,Signed,3rd Reading AB56 Bauer-Kahan et al. By Weber Pierson,Senate,2025-09-11T07:00:00+00:00,pass,30,5,5,40.0,21.0,9.0
+AB 566,Assembly,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-01T07:00:00+00:00,pass,9,0,6,15.0,41.0,-32.0
+AB 566,Assembly,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-01T07:00:00+00:00,pass,9,0,6,15.0,41.0,-32.0
+AB 566,Assembly,Signed,Do pass.,Assembly,2025-04-23T07:00:00+00:00,pass,11,0,4,15.0,41.0,-30.0
+AB 566,Assembly,Signed,Do pass.,Assembly,2025-04-23T07:00:00+00:00,pass,11,0,4,15.0,41.0,-30.0
+AB 566,Assembly,Signed,AB 566 Lowenthal Assembly Third Reading,Assembly,2025-06-06T00:21:58+00:00,pass,53,1,25,79.0,41.0,12.0
+AB 566,Assembly,Signed,AB 566 Lowenthal Assembly Third Reading,Assembly,2025-06-06T00:21:58+00:00,pass,53,1,25,79.0,41.0,12.0
+AB 566,Assembly,Signed,AB 566 Lowenthal Concurrence in Senate Amendments,Assembly,2025-09-11T19:10:15+00:00,pass,57,3,20,80.0,41.0,16.0
+AB 566,Assembly,Signed,AB 566 Lowenthal Concurrence in Senate Amendments,Assembly,2025-09-11T19:10:15+00:00,pass,57,3,20,80.0,41.0,16.0
+AB 566,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-01T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+AB 566,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-01T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+AB 566,Assembly,Signed,3rd Reading AB566 Lowenthal et al. By Stern,Senate,2025-09-10T07:00:00+00:00,pass,31,7,2,40.0,21.0,10.0
+AB 566,Assembly,Signed,3rd Reading AB566 Lowenthal et al. By Stern,Senate,2025-09-10T07:00:00+00:00,pass,31,7,2,40.0,21.0,10.0
+AB 621,Assembly,Signed,Do pass as amended and be re-referred to the Committee on [Judiciary],Assembly,2025-03-18T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+AB 621,Assembly,Signed,"Do pass as amended, and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",Assembly,2025-04-08T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+AB 621,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 621,Assembly,Signed,AB 621 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-02T22:01:23+00:00,pass,78,0,1,79.0,41.0,37.0
+AB 621,Assembly,Signed,AB 621 Bauer-Kahan Concurrence in Senate Amendments,Assembly,2025-09-11T02:37:47+00:00,pass,79,0,1,80.0,41.0,38.0
+AB 621,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 621,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 621,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 621,Assembly,Signed,3rd Reading AB621 Bauer-Kahan et al. By Ashby,Senate,2025-09-09T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
+AB 682,Assembly,Vetoed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-04-29T07:00:00+00:00,pass,16,0,0,16.0,41.0,-25.0
+AB 682,Assembly,Vetoed,Do pass. To Consent Calendar.,Assembly,2025-05-21T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+AB 682,Assembly,Vetoed,AB 682 Ortega Consent Calendar Second Day,Assembly,2025-05-27T22:34:36+00:00,pass,76,0,3,79.0,41.0,35.0
+AB 682,Assembly,Vetoed,AB 682 Ortega Concurrence in Senate Amendments,Assembly,2025-09-11T02:38:24+00:00,pass,66,3,11,80.0,41.0,25.0
+AB 682,Assembly,Vetoed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-16T07:00:00+00:00,pass,9,0,2,11.0,21.0,-12.0
+AB 682,Assembly,Vetoed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 682,Assembly,Vetoed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+AB 682,Assembly,Vetoed,3rd Reading AB682 Ortega et al. By Cortese,Senate,2025-09-09T07:00:00+00:00,pass,31,3,6,40.0,21.0,10.0
+AB 723,Assembly,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-01T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 723,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,13,0,2,15.0,41.0,-28.0
+AB 723,Assembly,Signed,AB 723 Pellerin Assembly Third Reading,Assembly,2025-06-03T18:34:55+00:00,pass,66,2,11,79.0,41.0,25.0
+AB 723,Assembly,Signed,AB 723 Pellerin Concurrence in Senate Amendments,Assembly,2025-09-11T02:39:08+00:00,pass,64,2,14,80.0,41.0,23.0
+AB 723,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-07-07T07:00:00+00:00,pass,8,3,0,11.0,21.0,-13.0
+AB 723,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+AB 723,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 723,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 723,Assembly,Signed,3rd Reading AB723 Pellerin By Wahab,Senate,2025-09-09T07:00:00+00:00,pass,29,10,1,40.0,21.0,8.0
+AB 853,Assembly,Signed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 853,Assembly,Signed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-04-22T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+AB 853,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,9,0,3,12.0,41.0,-32.0
+AB 853,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-04-29T07:00:00+00:00,pass,9,0,3,12.0,41.0,-32.0
+AB 853,Assembly,Signed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,0,4,15.0,41.0,-30.0
+AB 853,Assembly,Signed,Do pass as amended.,Assembly,2025-05-23T07:00:00+00:00,pass,11,0,4,15.0,41.0,-30.0
+AB 853,Assembly,Signed,AB 853 Wicks Assembly Third Reading,Assembly,2025-06-03T01:13:22+00:00,pass,58,2,19,79.0,41.0,17.0
+AB 853,Assembly,Signed,AB 853 Wicks Assembly Third Reading,Assembly,2025-06-03T01:13:22+00:00,pass,58,2,19,79.0,41.0,17.0
+AB 853,Assembly,Signed,AB 853 Wicks Concurrence in Senate Amendments,Assembly,2025-09-12T22:37:35+00:00,pass,60,4,16,80.0,41.0,19.0
+AB 853,Assembly,Signed,AB 853 Wicks Concurrence in Senate Amendments,Assembly,2025-09-12T22:37:35+00:00,pass,60,4,16,80.0,41.0,19.0
+AB 853,Assembly,Signed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+AB 853,Assembly,Signed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-15T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+AB 853,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 853,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 853,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 853,Assembly,Signed,Do pass,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 853,Assembly,Signed,3rd Reading AB853 Wicks et al. By Becker,Senate,2025-09-11T07:00:00+00:00,pass,30,6,4,40.0,21.0,9.0
+AB 853,Assembly,Signed,3rd Reading AB853 Wicks et al. By Becker,Senate,2025-09-11T07:00:00+00:00,pass,30,6,4,40.0,21.0,9.0
+AB 887,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-03-26T07:00:00+00:00,pass,9,0,0,9.0,41.0,-32.0
+AB 887,Assembly,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-03-26T07:00:00+00:00,pass,9,0,0,9.0,41.0,-32.0
+AB 887,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 887,Assembly,Failed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 887,Assembly,Failed,AB 887 Berman Assembly Third Reading,Assembly,2025-06-02T23:13:25+00:00,pass,77,0,2,79.0,41.0,36.0
+AB 887,Assembly,Failed,AB 887 Berman Assembly Third Reading,Assembly,2025-06-02T23:13:25+00:00,pass,77,0,2,79.0,41.0,36.0
+AB 887,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-16T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 887,Assembly,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-16T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 887,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 887,Assembly,Failed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 93,Assembly,Vetoed,Do pass as amended and be re-referred to the Committee on [Local Government],Assembly,2025-04-08T07:00:00+00:00,pass,10,1,2,13.0,41.0,-31.0
+AB 93,Assembly,Vetoed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-04-30T07:00:00+00:00,pass,8,1,1,10.0,41.0,-33.0
+AB 93,Assembly,Vetoed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,11,2,2,15.0,41.0,-30.0
+AB 93,Assembly,Vetoed,AB 93 Papan Assembly Third Reading,Assembly,2025-05-29T18:45:40+00:00,pass,51,14,14,79.0,41.0,10.0
+AB 93,Assembly,Vetoed,AB 93 Papan Concurrence in Senate Amendments,Assembly,2025-09-11T18:57:51+00:00,pass,59,16,5,80.0,41.0,18.0
+AB 93,Assembly,Vetoed,"Do pass, but first be re-referred to the Committee on [Local Government]",Senate,2025-06-24T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 93,Assembly,Vetoed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-07-16T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 93,Assembly,Vetoed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 93,Assembly,Vetoed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+AB 93,Assembly,Vetoed,3rd Reading AB93 Papan By Laird,Senate,2025-09-10T07:00:00+00:00,pass,30,10,0,40.0,21.0,9.0
+AB 970,Assembly,Failed,Do pass as amended and be re-referred to the Committee on [Public Safety],Assembly,2025-04-08T07:00:00+00:00,pass,6,0,0,6.0,41.0,-35.0
+AB 979,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-05-01T07:00:00+00:00,pass,13,0,2,15.0,41.0,-28.0
+AB 979,Assembly,Signed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-05-01T07:00:00+00:00,pass,13,0,2,15.0,41.0,-28.0
+AB 979,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 979,Assembly,Signed,Do pass.,Assembly,2025-05-23T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+AB 979,Assembly,Signed,AB 979 Irwin Assembly Third Reading,Assembly,2025-06-02T23:25:27+00:00,pass,78,0,1,79.0,41.0,37.0
+AB 979,Assembly,Signed,AB 979 Irwin Assembly Third Reading,Assembly,2025-06-02T23:25:27+00:00,pass,78,0,1,79.0,41.0,37.0
+AB 979,Assembly,Signed,AB 979 Irwin Concurrence in Senate Amendments,Assembly,2025-09-12T22:43:08+00:00,pass,79,0,1,80.0,41.0,38.0
+AB 979,Assembly,Signed,AB 979 Irwin Concurrence in Senate Amendments,Assembly,2025-09-12T22:43:08+00:00,pass,79,0,1,80.0,41.0,38.0
+AB 979,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Judiciary] with the recommendation: To Consent Calendar",Senate,2025-06-24T07:00:00+00:00,pass,15,0,0,15.0,21.0,-6.0
+AB 979,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Judiciary] with the recommendation: To Consent Calendar",Senate,2025-06-24T07:00:00+00:00,pass,15,0,0,15.0,21.0,-6.0
+AB 979,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-07-01T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 979,Assembly,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-07-01T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+AB 979,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 979,Assembly,Signed,Placed on suspense file,Senate,2025-08-18T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 979,Assembly,Signed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 979,Assembly,Signed,Do pass as amended,Senate,2025-08-29T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+AB 979,Assembly,Signed,Special Consent AB979 Irwin et al. By McNerney,Senate,2025-09-11T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
+AB 979,Assembly,Signed,Special Consent AB979 Irwin et al. By McNerney,Senate,2025-09-11T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
+SB 11,Senate,Vetoed,Do pass as amended and be re-referred to the Committee on [Public Safety],Assembly,2025-06-17T07:00:00+00:00,pass,11,0,1,12.0,41.0,-30.0
+SB 11,Senate,Vetoed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,0,0,9.0,41.0,-32.0
+SB 11,Senate,Vetoed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+SB 11,Senate,Vetoed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,11,0,4,15.0,41.0,-30.0
+SB 11,Senate,Vetoed,SB 11 Ashby Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T03:28:36+00:00,pass,79,0,1,80.0,41.0,38.0
+SB 11,Senate,Vetoed,"Do pass, but first be re-referred to the Committee on [Public Safety]",Senate,2025-04-01T07:00:00+00:00,pass,12,0,1,13.0,21.0,-9.0
+SB 11,Senate,Vetoed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,6,0,0,6.0,21.0,-15.0
+SB 11,Senate,Vetoed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 11,Senate,Vetoed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 11,Senate,Vetoed,3rd Reading,Senate,2025-06-02T07:00:00+00:00,pass,38,0,2,40.0,21.0,17.0
+SB 11,Senate,Vetoed,Unfinished Business SB11 Ashby Concurrence,Senate,2025-09-13T07:00:00+00:00,pass,37,0,3,40.0,21.0,16.0
+SB 238,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-06-25T07:00:00+00:00,pass,5,1,1,7.0,41.0,-36.0
+SB 238,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-06-25T07:00:00+00:00,pass,5,1,1,7.0,41.0,-36.0
+SB 238,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-04-23T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+SB 238,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-04-23T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+SB 238,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 238,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 238,Senate,Failed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 238,Senate,Failed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 238,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 238,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 238,Senate,Failed,3rd Reading SB238 Smallwood-Cuevas,Senate,2025-06-03T07:00:00+00:00,pass,27,10,3,40.0,21.0,6.0
+SB 238,Senate,Failed,3rd Reading SB238 Smallwood-Cuevas,Senate,2025-06-03T07:00:00+00:00,pass,27,10,3,40.0,21.0,6.0
+SB 241,Senate,Signed,Do pass as amended.,Assembly,2025-06-24T07:00:00+00:00,pass,9,0,1,10.0,41.0,-32.0
+SB 241,Senate,Signed,SB 241 Cervantes Senate Third Reading By Fong,Assembly,2025-09-08T21:11:24+00:00,pass,78,1,1,80.0,41.0,37.0
+SB 241,Senate,Signed,Do pass and be ordered to the Consent Calendar,Senate,2025-03-26T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 241,Senate,Signed,Consent Calendar 2nd,Senate,2025-04-01T07:00:00+00:00,pass,39,0,1,40.0,21.0,18.0
+SB 241,Senate,Signed,Unfinished Business SB241 Cervantes Concurrence,Senate,2025-09-10T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
+SB 243,Senate,Signed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-07-08T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+SB 243,Senate,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-07-15T07:00:00+00:00,pass,9,1,2,12.0,41.0,-32.0
+SB 243,Senate,Signed,Do pass.,Assembly,2025-08-29T07:00:00+00:00,pass,13,1,1,15.0,41.0,-28.0
+SB 243,Senate,Signed,SB 243 Padilla Senate Third Reading By Kalra,Assembly,2025-09-11T01:32:01+00:00,pass,59,1,20,80.0,41.0,18.0
+SB 243,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Health]",Senate,2025-04-08T07:00:00+00:00,pass,12,0,1,13.0,21.0,-9.0
+SB 243,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-30T07:00:00+00:00,pass,8,0,3,11.0,21.0,-13.0
+SB 243,Senate,Signed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 243,Senate,Signed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 243,Senate,Signed,3rd Reading SB243 Padilla et al.,Senate,2025-06-03T07:00:00+00:00,pass,28,5,7,40.0,21.0,7.0
+SB 243,Senate,Signed,Unfinished Business SB243 Padilla et al. Concurrence,Senate,2025-09-11T07:00:00+00:00,pass,33,3,4,40.0,21.0,12.0
+SB 253,Senate,Signed,Do pass as amended.,Assembly,2025-06-24T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+SB 253,Senate,Signed,SB 253 Umberg Senate Third Reading By Kalra,Assembly,2025-09-08T21:09:30+00:00,pass,78,0,2,80.0,41.0,37.0
+SB 253,Senate,Signed,Do pass,Senate,2025-05-06T07:00:00+00:00,pass,12,0,1,13.0,21.0,-9.0
+SB 253,Senate,Signed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,38,0,2,40.0,21.0,17.0
+SB 253,Senate,Signed,Unfinished Business SB253 Umberg et al. Concurrence,Senate,2025-09-10T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
+SB 259,Senate,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-06-24T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 259,Senate,Failed,Do pass.,Assembly,2025-07-15T07:00:00+00:00,pass,8,3,1,12.0,41.0,-33.0
+SB 259,Senate,Failed,Do pass as amended,Senate,2025-04-22T07:00:00+00:00,pass,11,1,1,13.0,21.0,-10.0
+SB 259,Senate,Failed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,30,9,1,40.0,21.0,9.0
+SB 274,Senate,Vetoed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-07T07:00:00+00:00,pass,12,4,0,16.0,41.0,-29.0
+SB 274,Senate,Vetoed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 274,Senate,Vetoed,Do pass.,Assembly,2025-08-29T07:00:00+00:00,pass,10,3,2,15.0,41.0,-31.0
+SB 274,Senate,Vetoed,SB 274 Cervantes Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T07:27:28+00:00,pass,41,29,10,80.0,41.0,0.0
+SB 274,Senate,Vetoed,"Do pass, but first be re-referred to the Committee on [Public Safety]",Senate,2025-04-22T07:00:00+00:00,pass,10,2,1,13.0,21.0,-11.0
+SB 274,Senate,Vetoed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,5,1,0,6.0,21.0,-16.0
+SB 274,Senate,Vetoed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 274,Senate,Vetoed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 274,Senate,Vetoed,3rd Reading SB274 Cervantes Motion to Reconsider,Senate,2025-06-03T07:00:00+00:00,pass,26,10,4,40.0,21.0,5.0
+SB 274,Senate,Vetoed,3rd Reading SB274 Cervantes Motion to Reconsider Reconsider,Senate,2025-06-03T07:00:00+00:00,pass,39,0,1,40.0,21.0,18.0
+SB 274,Senate,Vetoed,3rd Reading SB274 Cervantes Motion to Reconsider,Senate,2025-06-03T07:00:00+00:00,pass,27,10,3,40.0,21.0,6.0
+SB 274,Senate,Vetoed,Unfinished Business SB274 Cervantes et al. Concurrence,Senate,2025-09-13T07:00:00+00:00,pass,28,6,6,40.0,21.0,7.0
+SB 295,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+SB 295,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+SB 295,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+SB 295,Senate,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 295,Senate,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 295,Senate,Failed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 295,Senate,Failed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 295,Senate,Failed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 295,Senate,Failed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 295,Senate,Failed,SB 295 Hurtado Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T08:10:59+00:00,fail,13,24,43,80.0,41.0,-28.0
+SB 295,Senate,Failed,SB 295 Hurtado Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T08:10:59+00:00,fail,13,24,43,80.0,41.0,-28.0
+SB 295,Senate,Failed,SB 295 Hurtado Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T08:10:59+00:00,fail,13,24,43,80.0,41.0,-28.0
+SB 295,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Public Safety]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 295,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Public Safety]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 295,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Public Safety]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 295,Senate,Failed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 295,Senate,Failed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 295,Senate,Failed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 295,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 295,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 295,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 295,Senate,Failed,3rd Reading SB295 Hurtado et al.,Senate,2025-06-03T07:00:00+00:00,pass,29,10,1,40.0,21.0,8.0
+SB 295,Senate,Failed,3rd Reading SB295 Hurtado et al.,Senate,2025-06-03T07:00:00+00:00,pass,29,10,1,40.0,21.0,8.0
+SB 295,Senate,Failed,3rd Reading SB295 Hurtado et al.,Senate,2025-06-03T07:00:00+00:00,pass,29,10,1,40.0,21.0,8.0
+SB 354,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-04-09T07:00:00+00:00,pass,5,2,0,7.0,21.0,-16.0
+SB 354,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 354,Senate,Failed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 354,Senate,Failed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 354,Senate,Failed,3rd Reading,Senate,2025-06-04T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 361,Senate,Signed,"Do pass as amended, and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",Assembly,2025-06-24T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+SB 361,Senate,Signed,Do pass. To Consent Calendar.,Assembly,2025-07-09T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+SB 361,Senate,Signed,SB 361 Becker Senate Third Reading By Wicks,Assembly,2025-09-10T21:41:59+00:00,pass,79,0,1,80.0,41.0,38.0
+SB 361,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-04-01T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+SB 361,Senate,Signed,Consent Calendar 2nd,Senate,2025-04-24T07:00:00+00:00,pass,37,0,3,40.0,21.0,16.0
+SB 361,Senate,Signed,Unfinished Business SB361 Becker Concurrence,Senate,2025-09-11T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
+SB 366,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Labor, Public Employment and Retirement ]",Senate,2025-04-08T07:00:00+00:00,pass,13,0,2,15.0,21.0,-8.0
+SB 366,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Labor, Public Employment and Retirement ]",Senate,2025-04-08T07:00:00+00:00,pass,13,0,2,15.0,21.0,-8.0
+SB 366,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-30T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+SB 366,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-30T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+SB 366,Senate,Failed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 366,Senate,Failed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 384,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,2,1,12.0,41.0,-32.0
+SB 384,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,2,1,12.0,41.0,-32.0
+SB 384,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 384,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 384,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 384,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 384,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 384,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 384,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 384,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 384,Senate,Failed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 384,Senate,Failed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 420,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Governmental Organization]",Senate,2025-04-08T07:00:00+00:00,pass,11,1,1,13.0,21.0,-10.0
+SB 420,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,10,4,1,15.0,21.0,-11.0
+SB 420,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 420,Senate,Failed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,4,1,2,7.0,21.0,-17.0
+SB 420,Senate,Failed,3rd Reading,Senate,2025-06-02T07:00:00+00:00,pass,26,9,5,40.0,21.0,5.0
+SB 435,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,fail,7,5,3,15.0,41.0,-34.0
+SB 435,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,fail,7,5,3,15.0,41.0,-34.0
+SB 435,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-21T07:00:00+00:00,pass,5,0,0,5.0,21.0,-16.0
+SB 435,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-21T07:00:00+00:00,pass,5,0,0,5.0,21.0,-16.0
+SB 435,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 435,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 435,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 435,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 435,Senate,Failed,3rd Reading SB435 Wahab et al.,Senate,2025-06-04T07:00:00+00:00,pass,39,0,1,40.0,21.0,18.0
+SB 435,Senate,Failed,3rd Reading SB435 Wahab et al.,Senate,2025-06-04T07:00:00+00:00,pass,39,0,1,40.0,21.0,18.0
+SB 44,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-04-22T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+SB 44,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 468,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+SB 468,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+SB 468,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 468,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 47,Senate,Signed,Do pass. To Consent Calendar.,Assembly,2025-06-24T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+SB 47,Senate,Signed,SB 47 Umberg Consent Calendar Second Day,Assembly,2025-06-27T20:44:59+00:00,pass,75,0,4,79.0,41.0,34.0
+SB 47,Senate,Signed,SB 47 Umberg Third Reading Urgency By Kalra,Assembly,2025-09-10T21:39:51+00:00,pass,79,0,1,80.0,41.0,38.0
+SB 47,Senate,Signed,Do pass,Senate,2025-05-06T07:00:00+00:00,pass,12,0,1,13.0,21.0,-9.0
+SB 47,Senate,Signed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,38,0,2,40.0,21.0,17.0
+SB 47,Senate,Signed,Unfinished Business SB47 Umberg et al. Urgency Clause Concurrence,Senate,2025-09-11T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
+SB 503,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-08T07:00:00+00:00,pass,16,0,0,16.0,41.0,-25.0
+SB 503,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,13,0,2,15.0,41.0,-28.0
+SB 503,Senate,Failed,Do pass.,Assembly,2025-08-29T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+SB 503,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Governmental Organization]",Senate,2025-04-09T07:00:00+00:00,pass,10,0,1,11.0,21.0,-11.0
+SB 503,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+SB 503,Senate,Failed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 503,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 503,Senate,Failed,Special Consent SB503 Weber Pierson et al.,Senate,2025-05-29T07:00:00+00:00,pass,38,0,2,40.0,21.0,17.0
+SB 52,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+SB 52,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,3,0,12.0,41.0,-32.0
+SB 52,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 52,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 52,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+SB 52,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,11,0,2,13.0,21.0,-10.0
+SB 52,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 52,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 52,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 52,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 52,Senate,Failed,3rd Reading,Senate,2025-06-02T07:00:00+00:00,pass,28,9,3,40.0,21.0,7.0
+SB 52,Senate,Failed,3rd Reading,Senate,2025-06-02T07:00:00+00:00,pass,28,9,3,40.0,21.0,7.0
+SB 524,Senate,Signed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,6,0,3,9.0,41.0,-35.0
+SB 524,Senate,Signed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,6,0,3,9.0,41.0,-35.0
+SB 524,Senate,Signed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,6,0,3,9.0,41.0,-35.0
+SB 524,Senate,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,12,2,1,15.0,41.0,-29.0
+SB 524,Senate,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,12,2,1,15.0,41.0,-29.0
+SB 524,Senate,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,12,2,1,15.0,41.0,-29.0
+SB 524,Senate,Signed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+SB 524,Senate,Signed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+SB 524,Senate,Signed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,11,3,1,15.0,41.0,-30.0
+SB 524,Senate,Signed,SB 524 Arreguín Senate Third Reading By Schultz,Assembly,2025-09-08T22:56:17+00:00,pass,50,17,13,80.0,41.0,9.0
+SB 524,Senate,Signed,SB 524 Arreguín Senate Third Reading By Schultz,Assembly,2025-09-08T22:56:17+00:00,pass,50,17,13,80.0,41.0,9.0
+SB 524,Senate,Signed,SB 524 Arreguín Senate Third Reading By Schultz,Assembly,2025-09-08T22:56:17+00:00,pass,50,17,13,80.0,41.0,9.0
+SB 524,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-08T07:00:00+00:00,pass,5,1,0,6.0,21.0,-16.0
+SB 524,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-08T07:00:00+00:00,pass,5,1,0,6.0,21.0,-16.0
+SB 524,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-08T07:00:00+00:00,pass,5,1,0,6.0,21.0,-16.0
+SB 524,Senate,Signed,Placed on suspense file,Senate,2025-04-21T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 524,Senate,Signed,Placed on suspense file,Senate,2025-04-21T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 524,Senate,Signed,Placed on suspense file,Senate,2025-04-21T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 524,Senate,Signed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 524,Senate,Signed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 524,Senate,Signed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 524,Senate,Signed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 524,Senate,Signed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 524,Senate,Signed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 524,Senate,Signed,Unfinished Business SB524 Arreguín et al. Concurrence,Senate,2025-09-10T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 524,Senate,Signed,Unfinished Business SB524 Arreguín et al. Concurrence,Senate,2025-09-10T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 524,Senate,Signed,Unfinished Business SB524 Arreguín et al. Concurrence,Senate,2025-09-10T07:00:00+00:00,pass,28,10,2,40.0,21.0,7.0
+SB 53,Senate,Signed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+SB 53,Senate,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,10,0,5,15.0,41.0,-31.0
+SB 53,Senate,Signed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,11,1,3,15.0,41.0,-30.0
+SB 53,Senate,Signed,Do pass.,Assembly,2025-09-11T07:00:00+00:00,pass,12,1,2,15.0,41.0,-29.0
+SB 53,Senate,Signed,SB 53 Wiener Senate Third Reading By BAUER-KAHAN,Assembly,2025-09-13T05:20:17+00:00,pass,59,7,14,80.0,41.0,18.0
+SB 53,Senate,Signed,"Do pass as amended, but first amend, and re-refer to the Committee on [Judiciary]",Senate,2025-03-25T07:00:00+00:00,pass,13,0,2,15.0,21.0,-8.0
+SB 53,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-04-08T07:00:00+00:00,pass,13,0,0,13.0,21.0,-8.0
+SB 53,Senate,Signed,Placed on suspense file,Senate,2025-04-21T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 53,Senate,Signed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 53,Senate,Signed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,37,0,3,40.0,21.0,16.0
+SB 53,Senate,Signed,Unfinished Business SB53 Wiener et al. Concurrence,Senate,2025-09-13T07:00:00+00:00,pass,29,8,3,40.0,21.0,8.0
+SB 57,Senate,Signed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-09T07:00:00+00:00,pass,13,4,1,18.0,41.0,-28.0
+SB 57,Senate,Signed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 57,Senate,Signed,SB 57 Padilla Senate Third Reading By Hart,Assembly,2025-09-12T21:45:02+00:00,pass,57,18,5,80.0,41.0,16.0
+SB 57,Senate,Signed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-07T07:00:00+00:00,pass,12,3,2,17.0,21.0,-9.0
+SB 57,Senate,Signed,Placed on suspense file,Senate,2025-04-28T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 57,Senate,Signed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 57,Senate,Signed,3rd Reading SB57 Padilla et al.,Senate,2025-05-28T07:00:00+00:00,pass,25,9,6,40.0,21.0,4.0
+SB 57,Senate,Signed,Unfinished Business SB57 Padilla et al. Concurrence,Senate,2025-09-13T07:00:00+00:00,pass,29,8,3,40.0,21.0,8.0
+SB 579,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-03-25T07:00:00+00:00,pass,12,0,3,15.0,21.0,-9.0
+SB 579,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-03-25T07:00:00+00:00,pass,12,0,3,15.0,21.0,-9.0
+SB 579,Senate,Failed,Placed on suspense file,Senate,2025-04-21T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 579,Senate,Failed,Placed on suspense file,Senate,2025-04-21T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 58,Senate,Failed,,,,,,,,,,
+SB 620,Senate,Failed,,,,,,,,,,
+SB 69,Senate,Failed,Do pass and be re-referred to the Committee on [Judiciary],Assembly,2025-07-08T07:00:00+00:00,pass,14,0,1,15.0,41.0,-27.0
+SB 69,Senate,Failed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-07-15T07:00:00+00:00,pass,12,0,0,12.0,41.0,-29.0
+SB 69,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-04-23T07:00:00+00:00,pass,8,0,0,8.0,21.0,-13.0
+SB 69,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 69,Senate,Failed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 69,Senate,Failed,3rd Reading SB69 McNerney et al.,Senate,2025-05-28T07:00:00+00:00,pass,35,0,5,40.0,21.0,14.0
+SB 690,Senate,Failed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-07-01T07:00:00+00:00,pass,9,0,0,9.0,41.0,-32.0
+SB 690,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,6,0,0,6.0,21.0,-15.0
+SB 690,Senate,Failed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 690,Senate,Failed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 690,Senate,Failed,3rd Reading SB690 Caballero et al.,Senate,2025-06-03T07:00:00+00:00,pass,35,0,5,40.0,21.0,14.0
+SB 7,Senate,Vetoed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-06-25T07:00:00+00:00,pass,5,0,2,7.0,41.0,-36.0
+SB 7,Senate,Vetoed,Do pass and be re-referred to the Committee on [Privacy and Consumer Protection],Assembly,2025-06-25T07:00:00+00:00,pass,5,0,2,7.0,41.0,-36.0
+SB 7,Senate,Vetoed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 7,Senate,Vetoed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,9,4,2,15.0,41.0,-32.0
+SB 7,Senate,Vetoed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 7,Senate,Vetoed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 7,Senate,Vetoed,SB 7 McNerney Senate Third Reading By Ward,Assembly,2025-09-12T04:11:58+00:00,pass,45,17,18,80.0,41.0,4.0
+SB 7,Senate,Vetoed,SB 7 McNerney Senate Third Reading By Ward,Assembly,2025-09-12T04:11:58+00:00,pass,45,17,18,80.0,41.0,4.0
+SB 7,Senate,Vetoed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-04-09T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+SB 7,Senate,Vetoed,"Do pass, but first be re-referred to the Committee on [Judiciary]",Senate,2025-04-09T07:00:00+00:00,pass,4,1,0,5.0,21.0,-17.0
+SB 7,Senate,Vetoed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 7,Senate,Vetoed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 7,Senate,Vetoed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 7,Senate,Vetoed,Placed on suspense file,Senate,2025-05-19T07:00:00+00:00,pass,5,0,2,7.0,21.0,-16.0
+SB 7,Senate,Vetoed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 7,Senate,Vetoed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 7,Senate,Vetoed,3rd Reading SB7 McNerney et al.,Senate,2025-06-02T07:00:00+00:00,pass,27,10,3,40.0,21.0,6.0
+SB 7,Senate,Vetoed,3rd Reading SB7 McNerney et al.,Senate,2025-06-02T07:00:00+00:00,pass,27,10,3,40.0,21.0,6.0
+SB 7,Senate,Vetoed,Unfinished Business SB7 McNerney et al. Concurrence,Senate,2025-09-12T07:00:00+00:00,pass,28,9,3,40.0,21.0,7.0
+SB 7,Senate,Vetoed,Unfinished Business SB7 McNerney et al. Concurrence,Senate,2025-09-12T07:00:00+00:00,pass,28,9,3,40.0,21.0,7.0
+SB 763,Senate,Signed,Do pass and be re-referred to the Committee on [Public Safety],Assembly,2025-07-01T07:00:00+00:00,pass,8,3,1,12.0,41.0,-33.0
+SB 763,Senate,Signed,Do pass and be re-referred to the Committee on [Appropriations],Assembly,2025-07-15T07:00:00+00:00,pass,7,2,0,9.0,41.0,-34.0
+SB 763,Senate,Signed,Do pass as amended.,Assembly,2025-08-29T07:00:00+00:00,pass,10,4,1,15.0,41.0,-31.0
+SB 763,Senate,Signed,SB 763 Hurtado Senate Third Reading By Kalra,Assembly,2025-09-13T00:08:43+00:00,pass,53,20,7,80.0,41.0,12.0
+SB 763,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Public Safety]",Senate,2025-04-08T07:00:00+00:00,pass,11,2,0,13.0,21.0,-10.0
+SB 763,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,5,1,0,6.0,21.0,-16.0
+SB 763,Senate,Signed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 763,Senate,Signed,Do pass as amended,Senate,2025-05-23T07:00:00+00:00,pass,5,1,1,7.0,21.0,-16.0
+SB 763,Senate,Signed,3rd Reading,Senate,2025-06-04T07:00:00+00:00,pass,29,10,1,40.0,21.0,8.0
+SB 763,Senate,Signed,Unfinished Business SB763 Hurtado Concurrence,Senate,2025-09-13T07:00:00+00:00,pass,29,8,3,40.0,21.0,8.0
+SB 813,Senate,Failed,"Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",Senate,2025-04-29T07:00:00+00:00,pass,10,0,3,13.0,21.0,-11.0
+SB 813,Senate,Failed,Placed on suspense file,Senate,2025-05-12T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 833,Senate,Failed,Do pass as amended and be re-referred to the Committee on [Appropriations],Assembly,2025-07-16T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+SB 833,Senate,Failed,"Do pass, but first be re-referred to the Committee on [Appropriations]",Senate,2025-04-22T07:00:00+00:00,pass,12,0,3,15.0,21.0,-9.0
+SB 833,Senate,Failed,Placed on suspense file,Senate,2025-05-05T07:00:00+00:00,pass,7,0,0,7.0,21.0,-14.0
+SB 833,Senate,Failed,Do pass,Senate,2025-05-23T07:00:00+00:00,pass,6,0,1,7.0,21.0,-15.0
+SB 833,Senate,Failed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,37,0,3,40.0,21.0,16.0
+SB 857,Senate,Signed,Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar,Assembly,2025-07-15T07:00:00+00:00,pass,9,0,0,9.0,41.0,-32.0
+SB 857,Senate,Signed,Do pass. To Consent Calendar.,Assembly,2025-08-20T07:00:00+00:00,pass,15,0,0,15.0,41.0,-26.0
+SB 857,Senate,Signed,SB 857 Public Safety Consent Calendar Second Day,Assembly,2025-08-28T18:43:11+00:00,pass,74,0,5,79.0,41.0,33.0
+SB 857,Senate,Signed,"Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",Senate,2025-04-29T07:00:00+00:00,pass,6,0,0,6.0,21.0,-15.0
+SB 857,Senate,Signed,Consent Calendar 2nd SB857 PUB. S.,Senate,2025-05-15T07:00:00+00:00,pass,34,0,6,40.0,21.0,13.0
+SB 857,Senate,Signed,Special Consent SB857 PUB. S.,Senate,2025-09-11T07:00:00+00:00,pass,40,0,0,40.0,21.0,19.0
