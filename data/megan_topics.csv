@@ -1,0 +1,129 @@
+Bill No,Bill Name,Assigned Topic ,Megan Topic,Megan's Notes,Include?
+AB 682,Health care coverage reporting.,Health,Health,,Yes
+SB 58,Sales and Use Tax Law: exemptions: certified data center facilities.,"Data, Surveillence, Privacy",Environment,,Yes
+SB 102,Budget Act of 2025.,,"AI Mention, Not Substantive AI Policy",,No
+SB 813,Multistakeholder regulatory organizations.,,Safety,,Yes
+SB 57,Electrical corporations: data centers: report.,"Data, Surveillence, Privacy",Environment,,Yes
+AB 316,Artificial intelligence: defenses.,AI,Judicial & Criminal Legal System,,Yes
+AB 1170,Maintenance of the codes.,,"AI Mention, Not Substantive AI Policy",,No
+SB 361,Data brokers: data collection and deletion.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy",,Yes
+SB 384,Preventing Algorithmic Price Fixing Act: prohibition on certain price-setting algorithm uses.,"AI; Collusion, Price Fixing",Collusion/Price Fixing,,Yes
+SB 420,Automated decision systems.,AI,Government,,Yes
+AB 102,Budget Act of 2025.,,"AI Mention, Not Substantive AI Policy",,No
+SB 11,Artificial intelligence technology.,AI,Disinformation,,Yes
+SB 63,San Francisco Bay area: local revenue measure: public transit funding.,,"AI Mention, Not Substantive AI Policy",,No
+AB 512,Health care coverage: prior authorization.,Health,Health,,Yes
+AB 489,Health care professions: deceptive terms or letters: artificial intelligence.,AI,Health,,Yes
+SB 243,Companion chatbots.,AI,Kids,,Yes
+AB 103,"Budget Acts of 2022, 2023, and 2024.",,"AI Mention, Not Substantive AI Policy",,No
+AB 446,Surveillance pricing.,"Collusion, Price Fixing; Data, Surveillence, Privacy",Collusion/Price Fixing,,Yes
+AB 979,California Cybersecurity Integration Center: artificial intelligence.,"AI; Data, Surveillence, Privacy",Government,,Yes
+SB 468,High-risk artificial intelligence systems: duty to protect personal information.,"AI; Data, Surveillence, Privacy","Data, Surveillence, Privacy",,Yes
+SB 857,Public safety omnibus.,Safety,Kids,,Yes
+SB 103,"Budget Acts of 2022, 2023, and 2024.",,"AI Mention, Not Substantive AI Policy",,No
+SB 53,Artificial intelligence models: large developers.,AI,Safety,,Yes
+AB 2,Injuries to children: civil penalties.,Kids,Kids,,Yes
+SB 238,Workplace surveillance tools.,"Data, Surveillence, Privacy; Labor",Labor,,Yes
+AB 302,Data brokers: elected officials and judges.,"Data, Surveillence, Privacy; Judicial System","Data, Surveillence, Privacy",,Yes
+AB 222,Data centers: power usage effectiveness: cost shifts.,"Data, Surveillence, Privacy",Environment,,Yes
+AB 566,California Consumer Privacy Act of 2018: opt-out preference signal.,"AI; Data, Surveillence, Privacy","Data, Surveillence, Privacy",,Yes
+SB 295,California Preventing Algorithmic Collusion Act of 2025.,"AI; Collusion, Price Fixing; Data, Surveillence, Privacy",Collusion/Price Fixing,,Yes
+AB 33,Autonomous vehicles.,AI,Safety,,Yes
+SB 101,Budget Act of 2025.,,"AI Mention, Not Substantive AI Policy",,No
+AB 1018,Automated decision systems.,AI,Discrimination,,Yes
+SB 47,February 2025 bar exam: audit.,,Judicial & Criminal Legal System,,Yes
+AB 1221,Workplace surveillance tools.,"Data, Surveillence, Privacy; Labor",Labor,,Yes
+AB 970,Child abuse and neglect reporting.,,Kids,,Yes
+AB 1337,Information Practices Act of 1977.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy",,Yes
+AB 101,Budget Act of 2025.,,"AI Mention, Not Substantive AI Policy",,No
+AB 1064,Leading Ethical AI Development (LEAD) for Kids Act.,AI,Kids,,Yes
+SB 503,Health care services: artificial intelligence.,AI,Health,,Yes
+AB 325,Cartwright Act: violations.,,Collusion/Price Fixing,,Yes
+AB 1053,Educational technology: evaluation and selection.,Education,Education,,Yes
+AB 502,Elections: deceptive media in advertisements.,AI; Disinformation,Disinformation,,Yes
+SB 274,Automated license plate recognition systems.,,"Data, Surveillence, Privacy",,Yes
+SB 241,Community colleges: personnel: qualifications.,,Labor,,Yes
+SB 7,Employment: automated decision systems.,AI; Labor,Labor,,Yes
+SB 638,California Education Interagency Council: California Career Technical Education Incentive Grant Program.,,"AI Mention, Not Substantive AI Policy",,No
+AB 621,Deepfake pornography.,,Disinformation,,Yes
+AB 887,Pupil instruction: high schools: computer science courses: California Computer Science Demonstration Grant Program: reporting.,AI; Education,Education,,Yes
+AB 1137,Reporting mechanism: child sexual abuse material.,Kids,Kids,,Yes
+AB 93,Water resources: data centers.,"AI; Data, Surveillence, Privacy",Environment,,Yes
+AB 1159,Student personal information.,,Education,,Yes
+SB 690,Crimes: invasion of privacy.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy",,Yes
+SB 52,Housing rental terms: algorithmic devices.,AI; Housing,Collusion/Price Fixing,,Yes
+SB 833,Critical infrastructure: artificial intelligence systems: human oversight.,AI,Government,,Yes
+AB 1331,Workplace surveillance.,"Data, Surveillence, Privacy; Labor",Labor,,Yes
+AB 1355,Location privacy.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy",,Yes
+AB 279,School libraries: model library standards.,,Education,,Yes
+SB 435,California Consumer Privacy Act of 2018: sensitive personal information.,"AI; Data, Surveillence, Privacy","Data, Surveillence, Privacy",,Yes
+SB 524,Law enforcement agencies: artificial intelligence.,"AI; Data, Surveillence, Privacy; Government",Safety,,Yes
+AB 1405,Artificial intelligence: auditors: enrollment.,AI,Government,,Yes
+AB 1242,Language access.,,Government,,Yes
+SB 579,Mental health and artificial intelligence working group.,AI; Health,Health,,Yes
+AB 322,Precise geolocation information.,,"Data, Surveillence, Privacy",,Yes
+SB 366,Employment: artificial intelligence.,AI; Labor,Labor,,Yes
+AB 1043,Age verification signals: software applications and online services.,,Kids,,Yes
+AB 392,Pornographic internet websites: consent.,,Disinformation,,Yes
+AB 853,California AI Transparency Act.,"AI; Data, Surveillence, Privacy",Disinformation,,Yes
+AB 723,Real estate: digitally altered images: disclosure.,,Disinformation,,Yes
+AB 56,Social media: warning labels.,,Health,,Yes
+AB 412,Generative artificial intelligence: training data: copyrighted materials.,"AI; Data, Surveillence, Privacy; Labor","Data, Surveillence, Privacy",,Yes
+AB 1024,Department of Fish and Wildlife: San Gabriel Valley Bear Management and Community Safety Act.,,"AI Mention, Not Substantive AI Policy",,No
+SB 259,Fair Online Pricing Act.,"Collusion, Price Fixing",Collusion/Price Fixing,,Yes
+AB 410,Bots: disclosure.,AI; Disinformation,Disinformation,,Yes
+SB 253,State Bar of California.,,Judicial & Criminal Legal System,,Yes
+SB 756,California Film Commission: motion picture tax credits: tracking and compliance program.,"Data, Surveillence, Privacy",Not an AI Bill,"Exclude, irrelevant. It doesn't cover AI - just data collection for tax credits",No
+AB 270,Department of Forestry and Fire Protection: autonomous firefighting pilot project.,AI,Not an AI Bill," It's a pilot for autonomous fire helicopters/drones. I'm leaning towards excluding, but interesting fact -> CALFIRE partnered with Lockheed Martin Sikorsky and CAL FIRE Join Forces to Enhance Autonomous Aerial Firefighting Technologies",No
+SB 620,Energy utility data.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy",Maybe/Lean Include. This creates a consumer bill of rights around utility data (which I see as relatively valuable data). The rights seem good except for maybe its mention of an opt-out vs opt-in framework.It creates a committee that could effectuate those rights.  ,Yes
+SB 69,Artificial intelligence program: Attorney General.,AI,Government,"Include, it could beef up enforcement expertise on AI, report on additional safeguards could be useful",Yes
+AB 358,Criminal procedure: privacy.,"Data, Surveillence, Privacy",Not an AI Bill,"Not really an AI bill, I would lean exclude but it covers the procedure for law enforcement to access the device data of things like airtags w/o a warrant ",No
+AB 1095,Data centers: waste heat energy.,"Data, Surveillence, Privacy",Environment,"I would lean include. This is a subsidy for data centers mostly but also kind of helps the environment. It allows them to get subsidized financing and renewable energy credits for building waste heat recapture projects if they reuse the heat generated somehow (even if in their own facility). It seems that those credits and subsidies would be better used elsewhere, although it may make building data centers more attractive in CA",Yes
+AB 1465,Developmental services: data.,"Data, Surveillence, Privacy; Kids",Not an AI Bill,"exclude - non substantive, nominally privacy related",No
+SB 500,Energy: usage data.,"Data, Surveillence, Privacy",Not an AI Bill,"exclude, it would authorize a replacement for the EPA's Energy Star program that Trump may replace/remove",No
+AB 935,State agencies: complaints: demographic data.,"Data, Surveillence, Privacy",Not an AI Bill,exclude - bill for voluntary de-identified collection of demographic data around civil rights complaints,No
+AB 1364,Private security services: patrol operators: training.,"Data, Surveillence, Privacy",Not an AI Bill,exclude,No
+SB 44,Brain-computer interfaces: neural data.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy","This puts in strict privacy controls for brain data which can be used to train AI, definitely some issues with vague language though (include)",Yes
+AB 862,California School Dashboard: local control and accountability plans: college and career pathway data.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+AB 1418,Department of Health Care Access and Information.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+AB 91,State and local agencies: demographic data.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+AB 1461,Department of Consumer Affairs: regulatory boards.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+AB 1238,California Energy Consumer Freedom Act.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+SB 666,Personal income tax: credit: home security surveillance.,"Data, Surveillence, Privacy",Not an AI Bill,I would lean exclude but it gives a modest tax credit for things like ring cameras or other home surveillance tech,No
+AB 618,Medi-Cal: behavioral health: data sharing.,"Data, Surveillence, Privacy; Health",Not an AI Bill,"Leaning slightly towards exclude, this creates more data sharing around behavioral health data which can be good/bad depending on who has it/what its used for",No
+AB 637,False or misleading commercial disaster communication.,Disinformation,Not an AI Bill,,No
+AB 1388,Law enforcement: settlement agreements.,"Collusion, Price Fixing",Not an AI Bill,,No
+AB 593,CalFresh: data sharing.,"Data, Surveillence, Privacy",Not an AI Bill,"Lean exclude, it's another government data sharing bill like AB 618. This time its about calfresh data which is financial tier information. Again not all bad to share this data but once its out there it could be used in harmful ways either by government or eventually the private sector if they get their hands on it",No
+SB 391,Community colleges: Chancellor of the California Community Colleges: data request fee policy.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+SB 327,Fusion energy data centers.,"AI; Data, Surveillence, Privacy",Not an AI Bill,Kind of mentions data centers but its about making an agreement with the DoE to make supercomputer data center to research fusion energy,No
+AB 45,Privacy: health data: location and research.,"Data, Surveillence, Privacy; Health","Data, Surveillence, Privacy","Lean include, it protects location data around health centers, this data could be pretty valuable for AI scoring, targeting, pricing systems",Yes
+AB 1421,Vehicles: Road Usage Charge Technical Advisory Committee.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+SB 278,Health data: HIV test results.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+SB 368,Price gouging.,"Collusion, Price Fixing",Not an AI Bill,Cleanup bill on a price gouging bill,No
+SB 511,Autonomous vehicles.,AI,Not an AI Bill,"Do we consider autonomous vehicles AI? They kind of are, but this would expand the regulation of AVs. Not sure but given the current makeup of the AI WG I would say exclude",No
+SB 763,Conspiracy against trade: punishment.,"Collusion, Price Fixing",Collusion/Price Fixing,This looks like it increases the penalties for price fixing/violations of the cartwright act,Yes
+SB 660,California Health and Human Services Data Exchange Framework.,"Data, Surveillence, Privacy",Not an AI Bill,Another potential government data sharing bill like AB 618. EFF isn't opposed though,No
+AB 84,"School accountability: Office of the Education Inspector General: school financial and performance audits: charter school authorization, oversight, funding, operations, networks, and contracting: data systems: local educational agency contractor background checks and contracting.","Data, Surveillence, Privacy",Not an AI Bill,,No
+SB 575,California Cradle-to-Career Data System.,"Data, Surveillence, Privacy",Not an AI Bill,"Another government data sharing bill, this is kind of a concerning trend but not explicitly AI related",No
+SB 354,Insurance Consumer Privacy Protection Act of 2025.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy","Insurance privacy bill, they collect a ton of data. Gives consumers more rights to explanations, among other rights",Yes
+AB 1060,Local government: legal fee disclosures.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+SB 768,Courts: data reporting.,"Data, Surveillence, Privacy; Judicial System",Not an AI Bill,,No
+AB 811,Teacher credentialing: computer science instruction: workgroup.,AI,Not an AI Bill,Extends some deadlines for credentialing,No
+AB 380,Price gouging.,"Collusion, Price Fixing",Not an AI Bill,,No
+AB 1532,Public Utilities Commission.,"Data, Surveillence, Privacy; Government",Not an AI Bill,,No
+AB 1300,State and local government: data protection and privacy: immigration.,"Data, Surveillence, Privacy","Data, Surveillence, Privacy","Pretty firmly privacy but protects immigrant data, could exclude",No
+AB 619,California Conservation Corps: training programs: formerly incarcerated individuals: reporting.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+AB 734,Environmental protection: biological resources data: State Energy Resources Conservation and Development Commission: powerplants: power lines: applications.,"Data, Surveillence, Privacy",Not an AI Bill,,No
+AB 1434,Health care boards: workforce data collection.,"Data, Surveillence, Privacy; Labor",Not an AI Bill,,No
+AB 1239,Human trafficking: data.,"Data, Surveillence, Privacy",Not an AI Bill,Makes human trafficking arrest data and victim counts available on an open web portal,No
+SB 464,Employer pay data.,"Data, Surveillence, Privacy; Labor",Not an AI Bill,"Increases privacy on reported employee pay data/demographics, increases number of job categories",No
+AB 883,California Public Records Act: personal information of elected and appointed officials.,"Data, Surveillence, Privacy",Not an AI Bill,Increases privacy for elected or appointed officials,No
+AB 327,Crimes: false reporting.,Disinformation,Not an AI Bill,Increasses punishment for calling emergency response to someone's house falsely,No
+SB 480,Autonomous vehicles.,AI,Not an AI Bill,"This is an autonomous vehicle bill, are we including that as AI? Bill authorizes different lighting to show a car is being driven autonomously. Doesn't seem like there's too much AI WG interest in those bills",No
+AB 733,Agency reports.,"Data, Surveillence, Privacy",Not an AI Bill,Related to improving enforcement/implementation by requiring state agencies to explain why they aren't submitting their reports,No
+AB 421,"Immigration enforcement: prohibitions on access, sharing information, and law enforcement collaboration.","Data, Surveillence, Privacy",Not an AI Bill,"Protects CA LEO from collaborating with immigration authorities when its happening near a childcare facility, religious institution etc. ",No
+AB 364,Personal information: maintenance.,"Data, Surveillence, Privacy",Not an AI Bill,"Privacy bill increasing disclosure requirements if data is stored abroad, and gives opt-in requirements if businesses want to store the data overseas. This can help prevent data from being sent to areas with more lax requirements and to be used for training AI there. ",No
+SB 82,Contracts: consumer goods and services: dispute resolution provisions.,"Collusion, Price Fixing",Not an AI Bill,Potentially good consumer protection bill related to limiting the abuse of arbitration agreements - not AI related (but is connected to corporation concentration of power),No
+AB 370,California Public Records Act: cyberattacks.,"Data, Surveillence, Privacy",Not an AI Bill,Gives agencies more time to respond to PRA's when they suffer cyberattacks,No
+SB 515,Local government: collection of demographic data.,"Data, Surveillence, Privacy",Not an AI Bill,Increases the categories of data collection for demographic data for government employees,No
+SB 679,Health care facilities: physicians and surgeons: terminations and revocation of staff privileges: data reporting by race and gender.,"Data, Surveillence, Privacy",Not an AI Bill,,No
