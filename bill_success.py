@@ -94,7 +94,8 @@ print(success_by_topic_summary)
 print(success_by_topic_summary['Total'].sum())
 
 # Save data as csv
-success_by_topic_expanded.to_csv('./data/bill_data_with_success_status.csv')
+bills.to_csv('./data/bill_data_with_success_status.csv', index=False)
+success_by_topic_expanded.to_csv('./data/bill_topic_expanded.csv') # This data creates multiple rows per bill if a bill has multiple topics
 success_summary.to_csv('./data/bill_success_summary.csv')
 success_by_topic_summary.to_csv('./data/bill_success_by_topic.csv')
 

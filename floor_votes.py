@@ -32,3 +32,6 @@ vote_data = vote_data.sort_values(by=['bill_number','vote_location','vote_date']
 
 # Save to CSV
 vote_data.to_csv('./data/floor_votes.csv', index=False)
+
+# Look at an individual bill's votes
+ab325 = vote_data[vote_data['bill_number'] == 'AB 325'].sort_values(by=['vote_date'])
