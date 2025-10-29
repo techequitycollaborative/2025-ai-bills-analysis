@@ -74,30 +74,55 @@ success_summary = pd.DataFrame({
 
 print(success_summary)
 
+####### BILLS BY TOPIC #######
+
+### THIS CHUNK OF CODE USES THE LEGISLATION TRACKER ASSIGNED TOPICS ###
+
 # Get bill success by bill topic
-success_by_topic = bills.groupby('assigned_topics')['success'].value_counts()
-print(success_by_topic)
+#success_by_topic = bills.groupby('assigned_topics')['success'].value_counts()
+#print(success_by_topic)
 
 # Some bills have multiple topics, so we need to separate them out
-success_by_topic_expanded = bills.assign(
-    assigned_topics=bills['assigned_topics'].str.split('; ')
-).explode('assigned_topics')
-print(success_by_topic_expanded[['assigned_topics','success']].head(10))
+#success_by_topic_expanded = bills.assign(
+#    assigned_topics=bills['assigned_topics'].str.split('; ')
+#).explode('assigned_topics')
+#print(success_by_topic_expanded[['assigned_topics','success']].head(10))
 
 # Regroup by topic, now that we split them out
-success_by_topic_summary = success_by_topic_expanded.groupby(['assigned_topics', 'success']).size().unstack(fill_value=0)
-success_by_topic_summary['Total'] = success_by_topic_summary.sum(axis=1) # Add a total column
-success_by_topic_summary = success_by_topic_summary.sort_values('Total', ascending=False) # Sort
-print(success_by_topic_summary)
+#success_by_topic_summary = success_by_topic_expanded.groupby(['assigned_topics', 'success']).size().unstack(fill_value=0)
+#success_by_topic_summary['Total'] = success_by_topic_summary.sum(axis=1) # Add a total column
+#success_by_topic_summary = success_by_topic_summary.sort_values('Total', ascending=False) # Sort
+#print(success_by_topic_summary)
 
 # Check overall total -- should be more than 71, which is the total number of bills
-print(success_by_topic_summary['Total'].sum())
+#print(success_by_topic_summary['Total'].sum())
+
+### THIS NEXT CHUNK OF CODE USES MEGAN'S TOPICS ###
+
+# Merge megan's topics into bills dataframe
+megan_topics = pd.read_csv('./data/megan_topics.csv')
+bills = bills.merge(megan_topics[['Bill No', 'Megan Topic']], left_on='bill_number', right_on='Bill No', how='left')
+print(bills[['bill_number', 'assigned_topics', 'Megan Topic']].head(10))
+
+# Get bill success by Megan's topics
+success_by_topic = bills.groupby('Megan Topic')['success'].value_counts()
+print(success_by_topic)
+
+# Make summary table
+success_by_topic_summary = bills.groupby(['Megan Topic', 'success']).size().reset_index(name='Count')
+success_by_topic_summary = success_by_topic_summary.pivot(index='Megan Topic', columns='success', values='Count')
+success_by_topic_summary = success_by_topic_summary.fillna(0).astype(int) # Fill NaN values with 0
+success_by_topic_summary = success_by_topic_summary.reset_index() # Reset index to make Megan Topic a column again
+success_by_topic_summary = success_by_topic_summary.rename(columns={'Megan Topic': 'Topic'}) # Rename columns
+success_by_topic_summary['Total'] = success_by_topic_summary[['Failed', 'Signed', 'Vetoed']].sum(axis=1) # Add a total column
+print(success_by_topic_summary)
+print(success_by_topic_summary['Total'].sum()) # Check overall total -- should be 71
 
 # Save data as csv
 bills.to_csv('./data/bill_data_with_success_status.csv', index=False)
-success_by_topic_expanded.to_csv('./data/bill_topic_expanded.csv') # This data creates multiple rows per bill if a bill has multiple topics
+#success_by_topic_expanded.to_csv('./data/bill_topic_expanded.csv') # This data creates multiple rows per bill if a bill has multiple topics
 success_summary.to_csv('./data/bill_success_summary.csv')
-success_by_topic_summary.to_csv('./data/bill_success_by_topic.csv')
+success_by_topic_summary.to_csv('./data/bill_success_by_topic.csv') # With Megan's topics
 
 # Plots
 
@@ -111,6 +136,7 @@ plt.show()
 # Bill success by topic
 plt.figure(figsize=(12,8))
 df = success_by_topic_summary.drop(columns=['Total'])
+df = df.set_index('Topic') # Set 'Topic' as the index for plotting
 df.plot(kind='bar', stacked=True, colormap='Set3', figsize=(12,8))
 plt.xlabel('Bill Topic')
 plt.legend(title='Bill Status')

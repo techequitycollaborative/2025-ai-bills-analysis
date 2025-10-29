@@ -6,7 +6,7 @@ We reviewed all the AI-related bills from the California legislature's 2025 sess
 ## Process
 
 ### Bill selection
-Outside of this repository, we pulled all the bills from our [CA Legislation Tracker](https://github.com/techequitycollaborative/legislation-tracker) tool that had been categorized as an AI bill. We combined this list of bills with a previous list of AI bills that we had been tracking before the creation of the CA Legislation Tracker. We then manually reviewed this list to remove duplicates and verify for relevance. We removed bills that were not truly AI related but had been inaccurately labeled, as well as those that mentioned AI but did not contain substantive AI policies. This process resulted in 71 bills for analysis.
+Outside of this repository, we pulled all the bills from our [CA Legislation Tracker](https://github.com/techequitycollaborative/legislation-tracker) tool that had been categorized as an AI bill. We combined this list of bills with a previous list of AI bills that we had been tracking before the creation of the CA Legislation Tracker. We then manually reviewed this list to remove duplicates and verify for relevance. We removed bills that were not truly AI related but had been inaccurately labeled, as well as those that mentioned AI but did not contain substantive AI policies. We also corrected some topic labelling, and selected one primary topic per bill. This process resulted in 71 bills for analysis.
 
 ### Bill success
 We then assign each bill a 'success status' based on their final bill status, as reported by California LegInfo. We assign the following success categories: 
@@ -22,7 +22,7 @@ Of the 71 bills reviewed, 21 were signed, 7 were vetoed, and 43 failed to reach 
 ![Bill success overview](plots/bill_success_overview.png)
 
 ### Bill success by topic
-Some bills had more than one assigned topic, so the data here totals to more than 71.
+We break down bill success by bill topic. 
 
 ![Bills by topic](plots/bills_by_topic.png)
 
