@@ -33,5 +33,11 @@ The authors with the highest number of AI bills signed were Bauer-Kahan (4), Arr
 
 ![Bills by author](plots/bills_by_author.png)
 
+### Floor vote margins
+For bills that passed one or two floor votes, we calculate the floor vote margin, i.e. the number of spare/extra votes a bill received beyond the 21 (Senate) and 41 (Assembly) needed to pass. Note: certain bills require two-thirds majority, i.e. 27 (Senate) and 54 (Assembly) votes to pass.
+
+We segment floor vote margin into two groups of bills: those that only had a floor vote in their house of origin, and those that had both a floor vote in their house of origin and in the opposite house.
+
+
 
 
