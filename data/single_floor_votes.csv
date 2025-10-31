@@ -1,0 +1,29 @@
+bill_number,chamber,status,success,motion_text,vote_location,vote_date,vote_result,vote_threshold,yes_count,no_count,other_count,total_votes,vote_threshold_num,vote_margin,vote_type
+AB 1018,Assembly,Ordered to inactive file at the request of Senator Wiener.,Failed,AB 1018 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T03:10:50+00:00,pass,1/2,50,16,13,79.0,41.0,9.0,Origin House
+AB 1242,Assembly,In committee: Held under submission.,Failed,AB 1242 Nguyen Assembly Third Reading,Assembly,2025-06-04T00:49:23+00:00,pass,1/2,72,3,4,79.0,41.0,31.0,Origin House
+AB 1331,Assembly,Ordered to inactive file at the request of Senator Limón.,Failed,AB 1331 Elhawary Assembly Third Reading,Assembly,2025-06-06T00:00:56+00:00,pass,1/2,55,15,9,79.0,41.0,14.0,Origin House
+AB 1337,Assembly,"In committee: Set, first hearing. Failed passage. Reconsideration granted.",Failed,AB 1337 Ward Assembly Third Reading,Assembly,2025-06-03T02:37:43+00:00,pass,1/2,64,0,15,79.0,41.0,23.0,Origin House
+AB 1405,Assembly,In committee: Held under submission.,Failed,AB 1405 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T00:22:04+00:00,pass,1/2,62,4,13,79.0,41.0,21.0,Origin House
+AB 2,Assembly,In committee: Hearing postponed by committee.,Failed,AB 2 Lowenthal Assembly Third Reading,Assembly,2025-05-12T21:31:25+00:00,pass,1/2,66,0,13,79.0,41.0,25.0,Origin House
+AB 222,Assembly,In committee: Held under submission.,Failed,AB 222 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T00:38:11+00:00,pass,1/2,57,18,4,79.0,41.0,16.0,Origin House
+AB 279,Assembly,In committee: Held under submission.,Failed,AB 279 Patel Assembly Third Reading,Assembly,2025-06-03T18:01:15+00:00,pass,1/2,78,1,0,79.0,41.0,37.0,Origin House
+AB 302,Assembly,In committee: Held under submission.,Failed,AB 302 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-23T16:50:27+00:00,pass,1/2,56,11,12,79.0,41.0,15.0,Origin House
+AB 322,Assembly,In committee: Held under submission.,Failed,AB 322 Ward Assembly Third Reading,Assembly,2025-04-21T21:32:15+00:00,pass,1/2,62,0,17,79.0,41.0,21.0,Origin House
+AB 33,Assembly,Ordered to inactive file at the request of Senator Gonzalez.,Failed,AB 33 Aguiar-Curry Assembly Third Reading,Assembly,2025-05-29T18:07:11+00:00,pass,1/2,57,7,15,79.0,41.0,16.0,Origin House
+AB 392,Assembly,In committee: Held under submission.,Failed,AB 392 Dixon Assembly Third Reading,Assembly,2025-06-05T23:27:50+00:00,pass,1/2,78,0,1,79.0,41.0,37.0,Origin House
+AB 410,Assembly,In committee: Held under submission.,Failed,AB 410 Wilson Assembly Third Reading,Assembly,2025-06-03T18:11:04+00:00,pass,1/2,77,2,0,79.0,41.0,36.0,Origin House
+AB 412,Assembly,"In committee: Set, first hearing. Hearing canceled at the request of author.",Failed,AB 412 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-12T22:24:13+00:00,pass,1/2,45,16,18,79.0,41.0,4.0,Origin House
+AB 446,Assembly,Ordered to inactive file at the request of Senator McNerney.,Failed,AB 446 Ward Assembly Third Reading,Assembly,2025-05-12T22:22:43+00:00,pass,1/2,47,20,12,79.0,41.0,6.0,Origin House
+AB 489,Assembly,"Chaptered by Secretary of State - Chapter 615, Statutes of 2025.",Signed,AB 489 Bonta Assembly Third Reading,Assembly,2025-06-02T21:40:43+00:00,pass,1/2,79,0,0,79.0,41.0,38.0,Origin House
+AB 887,Assembly,In committee: Held under submission.,Failed,AB 887 Berman Assembly Third Reading,Assembly,2025-06-02T23:13:25+00:00,pass,1/2,77,0,2,79.0,41.0,36.0,Origin House
+AB 979,Assembly,Approved by the Governor.,Signed,AB 979 Irwin Assembly Third Reading,Assembly,2025-06-02T23:25:27+00:00,pass,1/2,78,0,1,79.0,41.0,37.0,Origin House
+SB 238,Senate,July 16 hearing postponed by committee.,Failed,3rd Reading SB238 Smallwood-Cuevas,Senate,2025-06-03T07:00:00+00:00,pass,1/2,27,10,3,40.0,21.0,6.0,Origin House
+SB 259,Senate,Ordered to inactive file on request of Assembly Member Aguiar-Curry.,Failed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,1/2,30,9,1,40.0,21.0,9.0,Origin House
+SB 354,Senate,Referred to Coms. on INS. and P. & C.P.,Failed,3rd Reading,Senate,2025-06-04T07:00:00+00:00,pass,1/2,28,10,2,40.0,21.0,7.0,Origin House
+SB 384,Senate,August 29 hearing: Held in committee and under submission.,Failed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,1/2,28,10,2,40.0,21.0,7.0,Origin House
+SB 420,Senate,Referred to Coms. on P. & C.P. and JUD.,Failed,3rd Reading,Senate,2025-06-02T07:00:00+00:00,pass,1/2,26,9,5,40.0,21.0,5.0,Origin House
+SB 435,Senate,Coauthors revised.,Failed,3rd Reading SB435 Wahab et al.,Senate,2025-06-04T07:00:00+00:00,pass,1/2,39,0,1,40.0,21.0,18.0,Origin House
+SB 52,Senate,August 29 hearing: Held in committee and under submission.,Failed,3rd Reading,Senate,2025-06-02T07:00:00+00:00,pass,1/2,28,9,3,40.0,21.0,7.0,Origin House
+SB 69,Senate,August 29 hearing: Held in committee and under submission.,Failed,3rd Reading SB69 McNerney et al.,Senate,2025-05-28T07:00:00+00:00,pass,1/2,35,0,5,40.0,21.0,14.0,Origin House
+SB 690,Senate,From committee: Do pass and re-refer to Com. on P. & C.P. (Ayes 9. Noes 0.) (July 1). Re-referred to Com. on P. & C.P.,Failed,3rd Reading SB690 Caballero et al.,Senate,2025-06-03T07:00:00+00:00,pass,1/2,35,0,5,40.0,21.0,14.0,Origin House
+SB 833,Senate,August 29 hearing postponed by committee.,Failed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,1/2,37,0,3,40.0,21.0,16.0,Origin House

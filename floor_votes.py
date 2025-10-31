@@ -92,21 +92,89 @@ print(len(origin_zero)) # 0 bills with zero origin house votes
 # Get list of bills that had votes in one house only
 single_house_bills = vote_type_summary[vote_type_summary['Both Houses'] == False].index.tolist()
 print(len(single_house_bills))
+print(single_house_bills)
 
 # Get list of bills that had votes in both houses
 both_house_bills = vote_type_summary[vote_type_summary['Both Houses'] == True].index.tolist()
 print(len(both_house_bills))
+print(both_house_bills)
 
 # For bills that have votes in one house only, grab those rows from third_reading_votes
 single_house_votes = third_reading_votes[third_reading_votes['bill_number'].isin(single_house_bills)].copy()
 print(len(single_house_votes))
+print(single_house_votes.head(10))
 
 # For bills that have votes in both houses, grab those rows from third_reading_votes
-both_house_votes = third_reading_votes[third_reading_votes['bill_number'].isin(single_house_bills)].copy()
+both_house_votes = third_reading_votes[third_reading_votes['bill_number'].isin(both_house_bills)].copy()
 print(len(both_house_votes))
+print(both_house_votes.head(10))
 
+# For single house votes, get average assembly and senate vote margins
+avg_single_house_margins = single_house_votes.groupby('vote_location')['vote_margin'].mean().reset_index()
+print(avg_single_house_margins)
 
+# For both house votes, get average assembly and senate vote margins
+avg_both_house_margins = both_house_votes.groupby(['chamber','vote_location'])['vote_margin'].mean().reset_index()
+print(avg_both_house_margins)
 
 # Save data to CSV
-vote_data.to_csv('./data/floor_votes.csv', index=False) # All floor votes
+vote_data.to_csv('./data/all_floor_votes.csv', index=False) # All floor votes
+single_house_votes.to_csv('./data/single_floor_votes.csv', index=False) # Bills that only had one floor vote in house of origin
+both_house_votes.to_csv('./data/both_floor_votes.csv', index=False) # Bills that had floor vote in both houses
 
+# Plots
+
+# Single vote bills: floor vote margin
+plot_data = single_house_votes[['bill_number','vote_location','vote_margin']].sort_values(by=['vote_location','vote_margin'], ascending=True)
+print(plot_data.head(10))
+
+plt.figure(figsize=(10,6))
+sns.barplot(data=plot_data, x='bill_number', y='vote_margin', hue='vote_location')
+plt.xticks(rotation=90)
+plt.title('Vote Margin for Single Floor Vote Bills')
+plt.xlabel('')
+plt.ylabel('Vote Margin')
+plt.tight_layout()
+plt.savefig('./plots/single_floor_vote_margins.png')
+plt.show()
+
+# Both vote bills: floor vote margin
+
+# Look at only passing votes
+plot_data = both_house_votes[both_house_votes['vote_result'] == 'pass']
+
+# Sort by bill number, then vote location
+plot_data = both_house_votes[['bill_number','vote_location','vote_margin']].sort_values(by=['bill_number','vote_location'], ascending=True)
+
+# Pivot the df so that each bill is one row, with a column for assembly vote margin and a column for senate vote margin
+plot_data_pivot = plot_data.pivot(index='bill_number', columns='vote_location', values='vote_margin').reset_index()
+print(plot_data_pivot.head(10))
+
+# Multiply senate margins by -1 bc senate margins will be displayed below the x-axis
+plot_data_pivot['Senate'] = plot_data_pivot['Senate'] * -1
+print(plot_data_pivot.head(10))
+
+# Sort by Assembly vote margin
+plot_data_pivot = plot_data_pivot.sort_values(by=['Assembly'], ascending=True)
+
+# Make the plot
+plt.figure(figsize=(10,6))
+sns.barplot(data=plot_data_pivot, x='bill_number', y='Assembly', color='blue', label='Assembly')
+sns.barplot(data=plot_data_pivot, x='bill_number', y='Senate', color='orange', label='Senate')
+plt.xticks(rotation=90)
+plt.xlabel('')
+plt.ylabel('Vote Margin')
+plt.title('Vote Margins for Bills with Floor Votes in Both Houses')
+
+# Replace 0 for 'Win' in y axis
+yticks = plt.yticks()[0]
+yticklabels = [str(int(tick)) if tick != 0 else 'Win' for tick in yticks]
+plt.yticks(yticks, yticklabels)
+
+plt.tight_layout()
+plt.savefig('./plots/both_floor_vote_margins.png')
+plt.show()
+
+# Plot notes
+# -- SB 274's Assembly vote margin was zero
+# -- SB 295's Assembly vote margin was negative, meaning it did not pass the assembly floor

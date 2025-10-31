@@ -1,0 +1,53 @@
+bill_number,chamber,status,success,motion_text,vote_location,vote_date,vote_result,vote_threshold,yes_count,no_count,other_count,total_votes,vote_threshold_num,vote_margin,vote_type
+AB 1043,Assembly,Approved by the Governor.,Signed,AB 1043 Wicks Assembly Third Reading,Assembly,2025-06-03T02:20:16+00:00,pass,1/2,76,0,3,79.0,41.0,35.0,Origin House
+AB 1043,Assembly,Approved by the Governor.,Signed,3rd Reading AB1043 Wicks et al. By Umberg,Senate,2025-09-12T07:00:00+00:00,pass,1/2,38,0,2,40.0,21.0,17.0,Opposite House
+AB 1064,Assembly,Vetoed by Governor.,Vetoed,AB 1064 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-03T03:22:39+00:00,pass,1/2,59,12,8,79.0,41.0,18.0,Origin House
+AB 1064,Assembly,Vetoed by Governor.,Vetoed,3rd Reading AB1064 Bauer-Kahan et al. By Ashby,Senate,2025-09-10T07:00:00+00:00,pass,1/2,31,6,3,40.0,21.0,10.0,Opposite House
+AB 316,Assembly,"Chaptered by Secretary of State - Chapter 672, Statutes of 2025.",Signed,AB 316 Krell Assembly Third Reading,Assembly,2025-05-19T22:28:54+00:00,pass,1/2,70,1,8,79.0,41.0,29.0,Origin House
+AB 316,Assembly,"Chaptered by Secretary of State - Chapter 672, Statutes of 2025.",Signed,3rd Reading AB316 Krell By Umberg,Senate,2025-09-08T07:00:00+00:00,pass,1/2,38,0,2,40.0,21.0,17.0,Opposite House
+AB 325,Assembly,"Chaptered by Secretary of State - Chapter 338, Statutes of 2025.",Signed,AB 325 Aguiar-Curry Assembly Third Reading,Assembly,2025-06-02T21:05:51+00:00,pass,1/2,54,17,8,79.0,41.0,13.0,Origin House
+AB 325,Assembly,"Chaptered by Secretary of State - Chapter 338, Statutes of 2025.",Signed,3rd Reading AB325 Aguiar-Curry et al. By Umberg,Senate,2025-09-11T07:00:00+00:00,pass,1/2,29,9,2,40.0,21.0,8.0,Opposite House
+AB 45,Assembly,"Chaptered by Secretary of State - Chapter 134, Statutes of 2025.",Signed,AB 45 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-04T01:18:02+00:00,pass,1/2,63,11,5,79.0,41.0,22.0,Origin House
+AB 45,Assembly,"Chaptered by Secretary of State - Chapter 134, Statutes of 2025.",Signed,3rd Reading AB45 Bauer-Kahan et al. By Menjivar,Senate,2025-09-12T07:00:00+00:00,pass,1/2,29,9,2,40.0,21.0,8.0,Opposite House
+AB 512,Assembly,Vetoed by Governor.,Vetoed,AB 512 Harabedian Assembly Third Reading,Assembly,2025-06-02T21:43:39+00:00,pass,1/2,68,1,10,79.0,41.0,27.0,Origin House
+AB 512,Assembly,Vetoed by Governor.,Vetoed,3rd Reading AB512 Harabedian et al. By Becker,Senate,2025-09-09T07:00:00+00:00,pass,1/2,30,0,10,40.0,21.0,9.0,Opposite House
+AB 56,Assembly,"Chaptered by Secretary of State - Chapter 671, Statutes of 2025.",Signed,AB 56 Bauer-Kahan Assembly Third Reading,Assembly,2025-05-29T18:32:11+00:00,pass,1/2,50,0,29,79.0,41.0,9.0,Origin House
+AB 56,Assembly,"Chaptered by Secretary of State - Chapter 671, Statutes of 2025.",Signed,3rd Reading AB56 Bauer-Kahan et al. By Weber Pierson,Senate,2025-09-11T07:00:00+00:00,pass,1/2,30,5,5,40.0,21.0,9.0,Opposite House
+AB 566,Assembly,"Chaptered by Secretary of State - Chapter 465, Statutes of 2025.",Signed,AB 566 Lowenthal Assembly Third Reading,Assembly,2025-06-06T00:21:58+00:00,pass,1/2,53,1,25,79.0,41.0,12.0,Origin House
+AB 566,Assembly,"Chaptered by Secretary of State - Chapter 465, Statutes of 2025.",Signed,3rd Reading AB566 Lowenthal et al. By Stern,Senate,2025-09-10T07:00:00+00:00,pass,1/2,31,7,2,40.0,21.0,10.0,Opposite House
+AB 621,Assembly,"Chaptered by Secretary of State - Chapter 673, Statutes of 2025.",Signed,AB 621 Bauer-Kahan Assembly Third Reading,Assembly,2025-06-02T22:01:23+00:00,pass,1/2,78,0,1,79.0,41.0,37.0,Origin House
+AB 621,Assembly,"Chaptered by Secretary of State - Chapter 673, Statutes of 2025.",Signed,3rd Reading AB621 Bauer-Kahan et al. By Ashby,Senate,2025-09-09T07:00:00+00:00,pass,1/2,40,0,0,40.0,21.0,19.0,Opposite House
+AB 682,Assembly,Vetoed by Governor.,Vetoed,3rd Reading AB682 Ortega et al. By Cortese,Senate,2025-09-09T07:00:00+00:00,pass,1/2,31,3,6,40.0,21.0,10.0,Opposite House
+AB 723,Assembly,Approved by the Governor.,Signed,AB 723 Pellerin Assembly Third Reading,Assembly,2025-06-03T18:34:55+00:00,pass,1/2,66,2,11,79.0,41.0,25.0,Origin House
+AB 723,Assembly,Approved by the Governor.,Signed,3rd Reading AB723 Pellerin By Wahab,Senate,2025-09-09T07:00:00+00:00,pass,1/2,29,10,1,40.0,21.0,8.0,Opposite House
+AB 853,Assembly,"Chaptered by Secretary of State - Chapter 674, Statutes of 2025.",Signed,AB 853 Wicks Assembly Third Reading,Assembly,2025-06-03T01:13:22+00:00,pass,1/2,58,2,19,79.0,41.0,17.0,Origin House
+AB 853,Assembly,"Chaptered by Secretary of State - Chapter 674, Statutes of 2025.",Signed,3rd Reading AB853 Wicks et al. By Becker,Senate,2025-09-11T07:00:00+00:00,pass,1/2,30,6,4,40.0,21.0,9.0,Opposite House
+AB 93,Assembly,Consideration of Governor's veto pending.,Vetoed,AB 93 Papan Assembly Third Reading,Assembly,2025-05-29T18:45:40+00:00,pass,1/2,51,14,14,79.0,41.0,10.0,Origin House
+AB 93,Assembly,Consideration of Governor's veto pending.,Vetoed,3rd Reading AB93 Papan By Laird,Senate,2025-09-10T07:00:00+00:00,pass,1/2,30,10,0,40.0,21.0,9.0,Opposite House
+SB 11,Senate,Vetoed by the Governor.,Vetoed,3rd Reading,Senate,2025-06-02T07:00:00+00:00,pass,1/2,38,0,2,40.0,21.0,17.0,Origin House
+SB 11,Senate,Vetoed by the Governor.,Vetoed,SB 11 Ashby Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T03:28:36+00:00,pass,1/2,79,0,1,80.0,41.0,38.0,Opposite House
+SB 241,Senate,"Chaptered by Secretary of State. Chapter 214, Statutes of 2025.",Signed,SB 241 Cervantes Senate Third Reading By Fong,Assembly,2025-09-08T21:11:24+00:00,pass,1/2,78,1,1,80.0,41.0,37.0,Opposite House
+SB 243,Senate,"Chaptered by Secretary of State. Chapter 677, Statutes of 2025.",Signed,3rd Reading SB243 Padilla et al.,Senate,2025-06-03T07:00:00+00:00,pass,1/2,28,5,7,40.0,21.0,7.0,Origin House
+SB 243,Senate,"Chaptered by Secretary of State. Chapter 677, Statutes of 2025.",Signed,SB 243 Padilla Senate Third Reading By Kalra,Assembly,2025-09-11T01:32:01+00:00,pass,1/2,59,1,20,80.0,41.0,18.0,Opposite House
+SB 253,Senate,"Chaptered by Secretary of State. Chapter 405, Statutes of 2025.",Signed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,1/2,38,0,2,40.0,21.0,17.0,Origin House
+SB 253,Senate,"Chaptered by Secretary of State. Chapter 405, Statutes of 2025.",Signed,SB 253 Umberg Senate Third Reading By Kalra,Assembly,2025-09-08T21:09:30+00:00,pass,1/2,78,0,2,80.0,41.0,37.0,Opposite House
+SB 274,Senate,In Senate. Consideration of Governor's veto pending.,Vetoed,3rd Reading SB274 Cervantes Motion to Reconsider,Senate,2025-06-03T07:00:00+00:00,pass,1/2,26,10,4,40.0,21.0,5.0,Origin House
+SB 274,Senate,In Senate. Consideration of Governor's veto pending.,Vetoed,SB 274 Cervantes Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T07:27:28+00:00,pass,1/2,41,29,10,80.0,41.0,0.0,Opposite House
+SB 295,Senate,Read third time. Refused passage. (Ayes 13. Noes 24. Page 3448.),Failed,3rd Reading SB295 Hurtado et al.,Senate,2025-06-03T07:00:00+00:00,pass,1/2,29,10,1,40.0,21.0,8.0,Origin House
+SB 295,Senate,Read third time. Refused passage. (Ayes 13. Noes 24. Page 3448.),Failed,SB 295 Hurtado Senate Third Reading By Bauer-Kahan,Assembly,2025-09-13T08:10:59+00:00,fail,1/2,13,24,43,80.0,41.0,-28.0,Opposite House
+SB 361,Senate,"Chaptered by Secretary of State. Chapter 466, Statutes of 2025.",Signed,SB 361 Becker Senate Third Reading By Wicks,Assembly,2025-09-10T21:41:59+00:00,pass,1/2,79,0,1,80.0,41.0,38.0,Opposite House
+SB 47,Senate,"Chaptered by Secretary of State. Chapter 209, Statutes of 2025.",Signed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,1/2,38,0,2,40.0,21.0,17.0,Origin House
+SB 47,Senate,"Chaptered by Secretary of State. Chapter 209, Statutes of 2025.",Signed,SB 47 Umberg Third Reading Urgency By Kalra,Assembly,2025-09-10T21:39:51+00:00,pass,1/2,79,0,1,80.0,41.0,38.0,Opposite House
+SB 524,Senate,"Chaptered by Secretary of State. Chapter 587, Statutes of 2025.",Signed,3rd Reading,Senate,2025-06-03T07:00:00+00:00,pass,1/2,28,10,2,40.0,21.0,7.0,Origin House
+SB 524,Senate,"Chaptered by Secretary of State. Chapter 587, Statutes of 2025.",Signed,SB 524 Arreguín Senate Third Reading By Schultz,Assembly,2025-09-08T22:56:17+00:00,pass,1/2,50,17,13,80.0,41.0,9.0,Opposite House
+SB 53,Senate,"Chaptered by Secretary of State. Chapter 138, Statutes of 2025.",Signed,3rd Reading,Senate,2025-05-28T07:00:00+00:00,pass,1/2,37,0,3,40.0,21.0,16.0,Origin House
+SB 53,Senate,"Chaptered by Secretary of State. Chapter 138, Statutes of 2025.",Signed,SB 53 Wiener Senate Third Reading By BAUER-KAHAN,Assembly,2025-09-13T05:20:17+00:00,pass,1/2,59,7,14,80.0,41.0,18.0,Opposite House
+SB 57,Senate,"Chaptered by Secretary of State. Chapter 647, Statutes of 2025.",Signed,3rd Reading SB57 Padilla et al.,Senate,2025-05-28T07:00:00+00:00,pass,1/2,25,9,6,40.0,21.0,4.0,Origin House
+SB 57,Senate,"Chaptered by Secretary of State. Chapter 647, Statutes of 2025.",Signed,SB 57 Padilla Senate Third Reading By Hart,Assembly,2025-09-12T21:45:02+00:00,pass,1/2,57,18,5,80.0,41.0,16.0,Opposite House
+SB 7,Senate,In Senate. Consideration of Governor's veto pending.,Vetoed,3rd Reading SB7 McNerney et al.,Senate,2025-06-02T07:00:00+00:00,pass,1/2,27,10,3,40.0,21.0,6.0,Origin House
+SB 7,Senate,In Senate. Consideration of Governor's veto pending.,Vetoed,SB 7 McNerney Senate Third Reading By Ward,Assembly,2025-09-12T04:11:58+00:00,pass,1/2,45,17,18,80.0,41.0,4.0,Opposite House
+SB 763,Senate,"Chaptered by Secretary of State. Chapter 426, Statutes of 2025.",Signed,3rd Reading,Senate,2025-06-04T07:00:00+00:00,pass,1/2,29,10,1,40.0,21.0,8.0,Origin House
+SB 763,Senate,"Chaptered by Secretary of State. Chapter 426, Statutes of 2025.",Signed,SB 763 Hurtado Senate Third Reading By Kalra,Assembly,2025-09-13T00:08:43+00:00,pass,1/2,53,20,7,80.0,41.0,12.0,Opposite House
+SB 241,Senate,"Chaptered by Secretary of State. Chapter 214, Statutes of 2025.",Signed,Consent Calendar 2nd,Senate,2025-04-01T07:00:00+00:00,pass,1/2,39,0,1,40.0,21.0,18.0,Origin House
+SB 361,Senate,"Chaptered by Secretary of State. Chapter 466, Statutes of 2025.",Signed,Consent Calendar 2nd,Senate,2025-04-24T07:00:00+00:00,pass,1/2,37,0,3,40.0,21.0,16.0,Origin House
+AB 682,Assembly,Vetoed by Governor.,Vetoed,AB 682 Ortega Consent Calendar Second Day,Assembly,2025-05-27T22:34:36+00:00,pass,1/2,76,0,3,79.0,41.0,35.0,Origin House
