@@ -128,6 +128,9 @@ both_house_votes.to_csv('./data/both_floor_votes.csv', index=False) # Bills that
 plot_data = single_house_votes[['bill_number','vote_location','vote_margin']].sort_values(by=['vote_location','vote_margin'], ascending=True)
 print(plot_data.head(10))
 
+# Save plot data
+plot_data.to_csv('./data/single_floor_vote_margins.csv', index=False)   
+
 plt.figure(figsize=(10,6))
 sns.barplot(data=plot_data, x='bill_number', y='vote_margin', hue='vote_location')
 plt.xticks(rotation=90)
@@ -156,6 +159,9 @@ print(plot_data_pivot.head(10))
 
 # Sort by Assembly vote margin
 plot_data_pivot = plot_data_pivot.sort_values(by=['Assembly'], ascending=True)
+
+# Save plot data
+plot_data_pivot.to_csv('./data/both_floor_vote_margins.csv', index=False)   
 
 # Make the plot
 plt.figure(figsize=(10,6))
