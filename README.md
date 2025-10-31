@@ -34,11 +34,11 @@ The authors with the highest number of AI bills signed were Bauer-Kahan (4), Arr
 ![Bills by author](plots/bills_by_author.png)
 
 ### Floor vote margins
-For bills that had one or two floor votes, we calculate the floor vote margin, i.e. the number of spare/extra votes a bill received beyond the 21 (Senate) and 41 (Assembly) needed to pass. Note: certain bills require two-thirds majority, i.e. 27 (Senate) and 54 (Assembly) votes to pass.
+We also calculate the floor vote margin, i.e. the number of spare/extra votes a bill received beyond the 21 (Senate) and 41 (Assembly) needed to pass. Note: certain bills require two-thirds majority, i.e. 27 (Senate) and 54 (Assembly) votes to pass.
 
 Looking at vote margins tells us how tight or contentious a floor vote was for a particular bill. Votes with a small vote margin narrowly passed, whereas votes with a large vote margin represent greater consensus among legislators.
 
-We segment floor vote margin into two groups of bills: those that only had a floor vote in their house of origin, and those that had both a floor vote in their house of origin and in the opposite house.
+We segment floor vote margin into two groups of bills: those that only had a third reading floor vote in their house of origin, and those that had both a third reading floor vote in their house of origin and in the opposite house. We look at third reading floor votes only, not other votes during the legislative process.
 
 For bills that only had a floor vote in their house of origin, see the spread of vote margins below. In this group, the average vote margin for Assembly bills was 23 and the average vote margin in the Senate was 10. 
 
