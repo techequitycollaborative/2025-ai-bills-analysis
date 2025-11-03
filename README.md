@@ -50,6 +50,12 @@ Note that SB 274's Assembly vote margin was zero, and SB 295's Assembly vote mar
 
 ![Both house floor votes](plots/both_floor_vote_margins.png)
 
+### Committee Referrals
+Next, we look at which AI bills were referred to the Senate Judiciary and Assembly Privacy committees. We categorize bills as Senate Judiciary, Assembly Privacy, Both, or Neither based on the text found in the 'bill_history' column. Below is a breakdown of what portion of bills were referred to each committee, both, or neither.
+
+![Committee referrals](plots/committee_referrals.png)
+
+
 
 
 
