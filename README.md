@@ -55,6 +55,12 @@ Next, we look at which AI bills were referred to the Senate Judiciary and Assemb
 
 ![Committee referrals](plots/committee_referrals.png)
 
+### Lobbying data
+Aside from legislative data, we also look at the amount spent on lobbying by a handful of tech companies and other groups. We retrieved lobbying spend data from [Cal-Access](https://cal-access.sos.ca.gov/Lobbying/Employers/). Data for the 2025-2026 session includes reported lobbying amounts for the 1st and 2nd quarters of the session, as well as some reported 3rd quarter amounts for a few of the companies/groups (but not all).
+
+![2025-2026 lobbying amounts by company](plots/lobbying_amounts_by_company_2025_2026.png)
+
+
 
 
 
